@@ -1,0 +1,257 @@
+<resources>
+    <string name="get_going">시작하기</string>
+    <string name="step">%1$d / %2$d 단계</string>
+    <string name="start">시동을</string>
+    <string name="connect_phone">차에 시동을 걸고 먼저 유선 USB 연결을 사용하여 휴대전화를 연결하세요.</string>
+    <string name="to_begin">설정하기 전에 Android Auto에서 \"무선 Android Auto\" 가 활성화되어있는지 확인하시길 바랍니다.</string>
+    <string name="plug_in_aaw">전화기의 플러그를 뽑고 AA무선 동글을 꽂습니다.</string>
+
+    <string name="if_not">\"무선 Android Auto\" 옵션이 보이지 않으시다면, 개발자 설정에서 활성화가 필요합니다. 다음 단계를 따라주세요:
+        \n
+        \nAndroid Auto 설정에서 버전 정보를 10회 연속으로 터치해주세요.
+        \n개발자 설정 팝업에서 확인을 눌러주세요.
+        \n우측 상단 메뉴에서 \"개발자 설정\" 진입 후 \"설정에 무선 프로젝션 추가\" 를 선택합니다.
+        \n
+        \n<p>하단의 이미지를 참조 바랍니다:</p>
+</string>
+    <string name="start_setup">연결하기</string>
+    <string name="open_aa_settings">Android Auto 설정 열기</string>
+    <string name="open_bluetooth_settings">블루투스 설정 열기</string>
+    <string name="open_wifi_settings">Wi-Fi 설정 열기</string>
+    <string name="open_troubleshooting">문제 해결 열기</string>
+    <string name="could_not_open_aa_settings">Android Auto 설정을 열 수 없습니다, Android Auto 가 설치되어 있나요?</string>
+    <string name="next">다음</string>
+    <string name="plugin">차량에 연결</string>
+    <string name="searching">검색 중</string>
+    <string name="for_aawireless"></string>
+    <string name="device_found">기기를 찾았습니다</string>
+    <string name="launching">실행중...</string>
+    <string name="could_not_pair">페어링 실패</string>
+    <string name="could_not_pair_desc">페어링할 수 없습니다. 장치를 다시 시작하거나 AAWireless-*** 또는 AndroidAuto-AAW***에 수동으로 페어링을 시도하십시오.</string>
+    <string name="bt_not_found">검색 실패</string>
+    <string name="bt_not_found_desc">기기의 전원이 켜져 있습니까? 전원이 켜져 있으면 AAWWireless-*** 또는 AndroidAuto-AAW***에 수동으로 페어링을 시도하십시오.</string>
+    <string name="retry">재시도하기</string>
+    <string name="pairing">페어링중...</string>
+    <string name="cancel">취소</string>
+    <string name="download_now">지금 다운로드</string>
+    <string name="download_later">다음에 다운로드</string>
+    <string name="warning">경고</string>
+    <string name="error_min_length">길이가 %d 이상이어야 합니다</string>
+    <string name="error_max_length">길이가 %d 이하이어야 합니다</string>
+    <string name="enable">활성화</string>
+    <string name="disable">비활성화</string>
+    <string name="enable_bluetooth">블루투스 활성화</string>
+    <string name="please_enable_bluetooth">이 앱을 사용하려면 블루투스를 활성화하세요.</string>
+
+    <!-- Preferences -->
+    <string name="passthrough">직접전달</string>
+    <string name="passthrough_desc">활성화될 시 AAwireless 기기를 통해 데이터 수정 없이 휴대폰과 차량 간 데이터가 직접 전달됩니다. 일부 차종과의 호환성은 개선 될 수 있지만 다른 설정들은 비활성화됩니다.</string>
+    <string name="vag_crash_fix">VAG 오류 해결</string>
+    <string name="vag_crash_fix_desc">해당 옵션은 VAG Technisat 헤드 유닛 전용으로, 음악 앱에서 노래를 건너뛰거나, 일시중지/충돌/재부팅등의 문제를 해결합니다. 경고: VAG Technisat 헤드 유닛을 사용하지 않는 차량에서는 오류가 발생합니다.</string>
+    <string name="usb_mode">USB 모드</string>
+    <string name="usb_mode_desc">기기가 차량에 연결되는 방식을 변경합니다. AAWireless 기기를 차량에 첫 연결 시, 필요한 설정값이 자동으로 인식후 적용됩니다. 다른 차량에서 기기를 사용하실 경우 해당 설정 변경이 필요할 수 있습니다.</string>
+    <string name="wifisetting">WiFi 설정</string>
+    <string name="dpi">DPI 변경</string>
+    <string name="dpi_desc">차량의 기본값을 위해서는 0으로 설정 바랍니다</string>
+    <string name="remove_tap">터치 제한 제거</string>
+    <string name="remove_tap_desc">활성화할 경우 6회 이상의 연속적인 터치를 할 수 있습니다. 경고: 활성화 이후에는 GPS 위치가 부정확하거나 지연이 발생할 수 있습니다.</string>
+    <string name="media_sink">미디어 비동기화</string>
+    <string name="media_sink_desc">활성화 할 시 다른 블루투스 스피커를 통해 음성을 재생할 수 있습니다.</string>
+    <string name="tts_sink">TTS 비동기화</string>
+    <string name="tts_sink_desc">활성화할 시 다른 블루투스 스피커를 통해 통해 내비게이션 안내를 받아보실 수 있습니다.</string>
+    <string name="auto_video_focus">자동 미디어 시작</string>
+    <string name="auto_video_focus_desc">이 설정은 기기 부팅 시 자동으로 미디어 시작을 요청합니다. 활성화할 시 휴대폰과 연결 후 차량에서 Android Auto 아이콘을 누를 필요 없이 자동으로 실행됩니다. 모든 차량에서 작동하지 않을 수 있습니다.</string>
+    <string name="wifi_connect_timeout">WiFi 연결 시간 초과</string>
+    <string name="wifi_connect_timeout_desc">기기 연결에 오랜 시간이 걸리신다면 해당 설정값을 변경해 보시길 바랍니다. 단위는 milisecond입니다.</string>
+    <string name="prefer_last_connected_phone">마지막에 연결한 스마트폰 우선</string>
+    <string name="developerMode">개발자 모드</string>
+    <string name="developerMode_desc">애플리케이션 개발 목적으로만 활성화 바랍니다.</string>
+    <string name="dongle_mode">동글 모드</string>
+    <string name="dongle_mode_desc">Android Auto의 동글 모드를 활성화합니다. 블루투스 연결을 개선하지만 일부 자동차와 호환성 문제를 일으킬 수 있습니다. 이 옵션을 변경할 때 블루투스를 다시 페어링하고 Android Auto 설정에서 차량 페어링을 제거해야 합니다.</string>
+    <string name="factory_reset">기기 초기화</string>
+    <string name="factory_reset_confirm">정말로 초기화를 진행하시겠습니까?</string>
+    <string name="save">저장</string>
+    <string name="finish">완료</string>
+    <string name="device_settings">기기 설정</string>
+    <string name="help_and_support">자주 묻는 질문 및 지원</string>
+    <string name="ok">확인</string>
+    <string name="android_auto_should_start">Android Auto 가 1분 이내 시작될 예정입니다. 시작되지 않을 시, 수동으로 USB 모드를 조절 혹은 직접 전달 설정을 활성화해보시길 바랍니다.</string>
+    <string name="add_new_device">새로운 기기 추가하기</string>
+    <string name="mtp">MTP</string>
+    <string name="direct">Direct</string>
+    <string name="mtp_force">MTP with forced start</string>
+    <string name="mtp_retry">MTP with retry</string>
+    <string name="usb_default">기본값</string>
+
+    <!-- OTA -->
+    <string name="ota_title">기기 업데이트</string>
+    <string name="ota_start_update">업데이트 시작</string>
+    <string name="ota_notification_channel_name">AAWireless OTA</string>
+    <string name="ota_download_start">다운로드를 시작합니다</string>
+    <string name="ota_downloading">다운로드 중: %d%%</string>
+    <string name="ota_download_complete">다운로드 완료</string>
+    <string name="ota_download_failed">다운로드 실패</string>
+    <string name="ota_update_starting">업데이트를 시작합니다</string>
+    <string name="ota_update_pending">업데이트 보류 중</string>
+    <string name="ota_updating">업데이트 중: %d%%</string>
+    <string name="ota_wait_for_reboot">재부팅 대기 중</string>
+    <string name="ota_update_complete">업데이트 완료</string>
+    <string name="ota_update_failed">업데이트 실패</string>
+    <string name="ota_connecting_to_device">기기에 연결 중</string>
+    <string name="ota_download_pending">WiFi 연결 후 다운로드가 시작됩니다</string>
+    <string name="ota_update_available">업데이트가 가능합니다</string>
+    <string name="ota_no_update_available">최신 펌웨어입니다</string>
+    <string name="ota_getting_version_info">정보 확인 중</string>
+    <string name="ota_getting_version_info_failed">기기 정보를 불러오는데 실패했습니다. 기기가 켜져있나요?</string>
+    <string name="ota_current_version">현재 버전: %s</string>
+    <string name="ota_latest_version">최신 버전: %s</string>
+    <string name="ota_start_download">다운로드 시작</string>
+    <string name="dismiss">닫기</string>
+    <string name="notification">알림</string>
+    <string name="changelog">업데이트 내역</string>
+    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
+    <string name="disable_vpn">VPN을 활성화한 경우 업데이트를 시작하기 전에 VPN을 비활성화하거나 VPN에서 AAWireless 앱을 허용 목록에 추가하십시오.</string>
+
+    <string name="ota_metered_network">제한된 네트워크에 연결되어 있습니다. 다운로드는 다음에도 가능하며, 지금 다운로드도 가능합니다. 다운로드 하시겠습니까?</string>
+
+    <string name="wifi_client_desc">WiFi 클라이언트 모드를 사용시 이미 존재하는 WiFi 네트워크를 통해 무선 안드로이드 오토를 사용 가능하십니다. (예: 차량 내부 핫스팟). 해당 모드를 사용할 경우 상시전원 설정과 자동연결이 해제됩니다. </string>
+    <string name="wifi_client_ssid">클라이언트 SSID</string>
+    <string name="wifi_client_ssid_desc">클라이언트의 네트워크 이름을 입력해주세요</string>
+    <string name="wifi_client_pass">클라이언트 암호</string>
+    <string name="wifi_client_pass_desc">클라이언트의 네트워크 암호를 입력해주세요</string>
+    <string name="wifi_channel">WiFi 채널</string>
+    <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
+    <string name="country_setting_desc">국가를 선택하여 해당 국가의 WiFi 규정을 적용합니다. 올바른 국가를 선택하여, 해당 국가의 WiFi 규정 준수는 오로지 사용자의 책임입니다. 국가 선택 이후, 각국의 규정을 불러오기 위해서는 재부팅이 필요할 수 있습니다. </string>
+    <string name="country">국가</string>
+    <string name="country_desc">해당되는 국가를 선택해주세요</string>
+    <string name="requires_v2">하단의 몇몇 옵션 사용을 위해서는 펌웨어 버전이 2.0.0 이상이여야합니다. 기기의 펌웨어를 업데이트 바랍니다.</string>
+
+    <string name="see_faq">자주 묻는 질문</string>
+    <string name="bug_report_available">오류 제보가 가능합니다</string>
+    <string name="start_debug_mode">디버그 모드 시작하기</string>
+    <string name="stop_debug_mode">디버그 모드 중지, 오류 리포트 만들기</string>
+    <string name="send_mail">질문하기</string>
+    <string name="bug_report_nag">지원팀에서 버그 보고서 작성을 요청할 때만 버그 보고서를 작성하십시오. 지원 티켓이 없는 버그 보고서는 처리되지 않습니다.</string>
+    <string name="bug_report">오류 제보</string>
+    <string name="bug_report_desc">오류 제보를 위해서는 하단의 디버그 모드 시작하기 버튼을 눌러주세요.\n 오류 발생 이후 하단의 디버깅 모드 중지 버튼을 눌러주세요. \n 오류 리포트가 만들어진 이후 새로운 창이 열리며 해당 창에서 캡쳐된 오류 리포트를 전송할 수 있습니다</string>
+    <string name="downloading_log">로그 다운로드</string>
+    <string name="download_log_failed">로그 다운로드 실패</string>
+    <string name="log_download_notification_channel_name">AAWireless - 로그 다운로드</string>
+    <string name="issue_description">오류에 대해 적어주세요. 최대한 상세하게 차종, 발생 환경, 증상을 적어주실수록 개발에 도움이 됩니다.</string>
+    <string name="send">전송</string>
+    <string name="support_request_for">Support request for %s</string>
+    <string name="support_address">https://talk.naver.com/ct/w4nte0?frm=psf</string>
+    <string name="faq_address">https://carple.kr/faq/</string>
+    <string name="could_not_get_debug_status">디버그 상태를 불러올수 없습니다, AAWireless 기기의 전원이 켜져있나요?</string>
+    <string name="submit">제출하기</string>
+
+    <string name="could_not_get_settings">설정을 불러올수 없습니다, 기기의 전원이 켜져있나요?</string>
+    <string name="could_not_save_settings">설정을 저장할수 없습니다</string>
+
+    <string name="an_error_occurred_please_try_again">오류가 발생했습니다, 다시 시도해보시길 바랍니다</string>
+    <string name="start_stop">상시전원</string>
+    <string name="start_stop_draw_over_other_apps">상시 전원 설정 사용 위해서는 "다른 앱 위에 표시" 권한이 있어야 합니다.\n\n "다른 앱 위에 표시" 설정 화면에서, AAWireless 앱을 선택 후, 권한을 부여해 주세요.</string>
+    <string name="start_stop_desc">차량의 USB 포트에 전원이 항시 공급되어있다면, 자동연결을 해제한 후 차량의 블루투스 연결을 선택하여 Android Auto 연결을 시작, 중지가 가능합니다.</string>
+    <string name="enable_start_stop">상시전원 활성화</string>
+    <string name="select_car_or_headunit">차량의 블루투스 선택</string>
+    <string name="permission_needed">권한이 필요합니다</string>
+    <string name="permission_required">권한이 필수입니다</string>
+
+    <string name="connecting_to_device">기기에 연결 중</string>
+    <string name="delay_connect_to_device">기기 연결 지연 중</string>
+    <string name="connection_lost_reconnecting_to_device">연결이 끊겼습니다, 기기 연결 재시도 중</string>
+    <string name="connected_to_device">기기에 연결되었습니다</string>
+    <string name="disconnecting_from_device">기기에 연결 해제 중</string>
+    <string name="wifi_not_enabled">WiFi 가 활성화되어있지 않습니다, WiFi 를 활성화 바랍니다</string>
+    <string name="draw_overlays_not_enabled">다른 앱 위에 표시 설정이 활성화되어있지 않습니다, 활성화하시길 바랍니다.</string>
+    <string name="idle">Idle</string>
+    <string name="stop">Stop</string>
+    <string name="restart">재시작</string>
+    <string name="enable_wifi">WiFi 활성화</string>
+    <string name="enable_draw_overlays">다른 앱 위에 표시 활성화</string>
+
+    <string name="already_a_device">AAWireless 기기가 있으신가요? 설정 시작하기!</string>
+
+    <string name="invalid_email_address">올바르지 않은 이메일 주소입니다</string>
+    <string name="required_field">필수 입력 항목입니다</string>
+    <string name="lets_start">환영합니다</string>
+    <string name="go_to_settings">설정으로 이동</string>
+    <string name="welcome">환영합니다</string>
+    <string name="system_update">펌웨어 업데이트</string>
+    <string name="select_device">기기 선택</string>
+    <string name="setting_not_available">설정을 사용할 수 없습니다.</string>
+    <string name="setting_not_available_desc">이 설정은 현재 펌웨어에서는 사용이 불가합니다. AAWireless 기기를 업데이트 바랍니다.</string>
+    <string name="start_stop_not_available_desc">시작/중지는 WiFi 클라이언트 모드와 함께 사용할 수 없습니다.</string>
+    <string name="menu_not_available">메뉴를 사용할 수 없습니다</string>
+    <string name="menu_not_available_desc">이 메뉴는 현재 펌웨어에서 사용이 불가합니다, \n기기를 업데이트해 주시길 바랍니다.</string>
+    <string name="enabled">활성화 됨</string>
+    <string name="disabled">비활성화 됨</string>
+    <string name="could_not_change_debug_mode">Could not change debug mode</string>
+    <string name="could_not_get_device_information">기기 정보를 불러올수 없습니다, 기기의 전원이 켜져있나요?</string>
+    <string name="could_not_send_bug_report">Could not send bug report.</string>
+    <string name="bluetooth_permission">AA Wireless 사용을 위해서는 블루투스가 필요합니다, 블루투스 권한을 허용해주세요.</string>
+    <string name="exit">종료</string>
+    <string name="grant">허용</string>
+    <string name="wifi_mode">WiFi 모드</string>
+    <string name="wifi_band">WiFi 주파수 대역</string>
+    <string name="client">클라이언트</string>
+    <string name="hotspot">핫스팟</string>
+    <string name="wifi_24ghz">2.4 Ghz</string>
+    <string name="wifi_5ghz">5 Ghz</string>
+    <string name="order_now">지금 주문하기!</string>
+    <string name="order_address">https://carple.kr/</string>
+
+    <!-- Paired phone management -->
+    <string name="paired_phones">휴대폰 관리</string>
+    <string name="unpair_phone">페어링 해제</string>
+    <string name="increase_priority">우선 순위 올리기</string>
+    <string name="decrease_priority">우선 순위 내리기</string>
+
+    <!-- Troubleshooting -->
+    <string name="troubleshooting">문제 해결</string>
+    <string name="led_color_title">LED 색상?</string>
+    <string name="led_color_desc">기기의 LED 색상과 점멸/점등 여부를 확인해주세요</string>
+    <string name="led_blinking_green">초록 점멸</string>
+    <string name="no_blinking_green">아니요, 초록색이 점멸합니다</string>
+    <string name="led_blinking_blue">파란 점멸</string>
+    <string name="no_blinking_blue">아니요, 파란색이 점멸합니다</string>
+    <string name="led_solid_blue">파란 점등</string>
+    <string name="no_solid_blue">아니요, 파란색이 점등합니다</string>
+    <string name="led_solid_green">초록 점등</string>
+    <string name="is_wifi_visible_title">WiFi가 보이시나요??</string>
+    <string name="wireless_projection_auto_title">무선 프로젝션</string>
+    <string name="wireless_projection_auto_desc">아래 지침에 따라 무선 프로젝션이 활성화되어 있는지 확인하십시오. 그런 다음 \"다음\" 버튼을 누르십시오.</string>
+    <string name="contact_support">고객센터로 연락</string>
+    <string name="other_issue">기타 문제</string>
+    <string name="change_bandwidth_title">Wi-Fi 2.4 GHz</string>
+    <string name="change_bandwidth_desc">연결된 휴대폰이 5.0GHz를 지원하지 않을 수 있습니다, 하단의 버튼을 눌러 기기를 2.4GHz 모드로 설정해 주세요.</string>
+    <string name="contact_support_title">고객센터로 연락</string>
+    <string name="contact_support_desc">추가적인 지원을 위해 고객센터로 연락 주시길 바랍니다.</string>
+    <string name="does_not_work_over_usb_title">유선 연결</string>
+    <string name="does_not_work_over_usb_desc">유선으로 Android Auto 를 실행하였을때, 정상적으로 작동합니까?</string>
+    <string name="is_wifi_visible_desc">하단의 버튼을 눌러 Wi-Fi 설정으로 진입 후, \"AAWireless-xxxxxx\" 혹은 \"AndroidAuto-AAWxxxxx\" 이름의 Wi-Fi 가 검색되는지 확인 바랍니다.</string>
+    <string name="is_wifi_visible_desc2">Wi-Fi 가 보이시나요?</string>
+    <string name="yes">예</string>
+    <string name="one_button">다음</string>
+    <string name="service_reset">Google Play Service 설정 열기</string>
+    <string name="aa_reset">Android Auto 설정 열기</string>
+    <string name="no">아니요</string>
+    <string name="usb_c_cable_title">케이블</string>
+    <string name="usb_c_cable_desc">케이블로 인해 연결이 끊길 수 있습니다. 다른 USB-C 케이블을 사용해보신 후 다음으로 진행해주세요.</string>
+    <string name="does_it_work_title">Android Auto가 작동 중입니까?</string>
+    <string name="does_it_work_desc">장치를 다시 연결하십시오. 1분 이내에 Android Auto가 시작됩니다. Android Auto가 지금 실행 중입니까?</string>
+    <string name="does_it_have_a_bluetooth_connection_desc">블루투스 설정을 통해 AAWireless 기기에 수동으로 연결하십시오.</string>
+    <string name="does_it_have_a_bluetooth_connection_title"> 블루투스 연결 </string>
+    <string name="clear_title">데이터 및 캐시</string>
+    <string name="clear_desc">아래 버튼을 누르고 \"저장소 및 캐시\"에서 Android Auto의 저장소를 지우고 뒤로 두 번 누르고 아래의 \"다음\"을 누르세요.</string>
+    <string name="set_usb_mode_desc">아래 버튼을 눌러 USB 모드를 MTP로 설정하십시오.</string>
+    <string name="enable_passthrough_title">직접전달 활성화</string>
+    <string name="enable_passthrough_desc">아래 버튼을 눌러, 직접 전달 모드를 활성화해주세요.</string>
+    <string name="enter_problem_description">문제에 대한 설명을 입력하십시오:</string>
+    <string name="aa_working_title">작동합니다!</string>
+    <string name="aa_working_desc">무선의 편리함을 즐겨보실 수 있게 되어 기쁩니다! 추가적인 지원이 필요하다면 하단의 버튼을 통해 고객센터로 연락하실 수 있습니다</string>
+    <string name="close_troubleshooting">문제 해결 닫기</string>
+    <string name="no_device_selected">선택된 장치가 없습니다, 홈으로 돌아갑니다</string>
+    <string name="reset_device_title">기기 초기화</string>
+    <string name="reset_device_desc">하단의 버튼을 눌러 기기를 기본 설정으로 초기화해주세요.</string>
+</resources>
