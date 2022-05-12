@@ -201,13 +201,13 @@
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Bestelle jetzt!</string>
     <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
-    <string name="connect">Verbinde</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">Gepairte Smartphones</string>
     <string name="unpair_phone">Unpair Smartphone</string>
     <string name="increase_priority">Erhöhe Priorität</string>
     <string name="decrease_priority">Vermindere Priorität</string>
+    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle Modus funktioniert die Smartphone Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen priorisiere bitte die Smartphone Handsfree Verbindungen bei deinem Fahrzeug Radio, wenn möglich.</string>
 
     <string name="unstable_warning" translatable="false">Dies ist eine (potenziell) unstabile Entwicklerversion der AAWireless App. Es können Fehler auftreten oder Features könnten nicht richtig funktionieren. Wenn du eine stabile Version haben möchtest, lösche den Firebase Account und lade die App aus dem Playstore.\n\nUm Den Account zu löschen, wähle den \"Lösche Account\" Button, login mit deinem Google Account und drück auf den \"Lösche Account\" button auf der Webseite.</string>
     <string name="delete_account" translatable="false">Lösche Account</string>
@@ -220,8 +220,7 @@
     <string name="widget_force_connect" translatable="false">Erzwinge Verbindung</string>
     <string name="widget_force_connect_desc" translatable="false">Erzwungene Geräteverbindung Widget</string>
     <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">Erzwungene Geräteverbindung Schnelleinstellungskonfiguration</string>
-    <string name="starting_aa">Starte Android Auto</string>
+    <string name="title_activity_widget_force_connection" translatable="false">Erzwungene Geräteverbindung Widget Konfiguration</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Fehlerbehebung</string>
@@ -234,6 +233,7 @@
     <string name="led_solid_blue">Blau leuchtend</string>
     <string name="no_solid_blue">Nein, es leuchtet Blau</string>
     <string name="led_solid_green">Grün leuchtend</string>
+    <string name="led_solid_white">Weiß leuchtend</string>
     <string name="is_wifi_visible_title">Ist Wi-Fi sichtbar?</string>
     <string name="wireless_projection_auto_title">Kabellose Projektion</string>
     <string name="wireless_projection_auto_desc">Bitte gehe sicher, dass die Kabellose Projektion aktiviert ist, wie unten beschrieben. Dannach drücke bitte den \"Weiter\" Button.</string>
@@ -269,5 +269,5 @@
     <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
     <string name="no_device_selected">Kein Gerät ausgewählt. Gehe zurück auf den Startbildschirm.</string>
     <string name="reset_device_title">Gerät zurücksetzen</string>
-    <string name="reset_device_desc">Bitte setze zuerst dein Gerät zurück indem du auf Weiter drückst.</string>
+    <string name="reset_device_desc">Bitte setze dein Gerät zurück auf Werkseinstellungen indem du auf Weiter drückst.</string>
 </resources>
