@@ -49,7 +49,7 @@
     <string name="vag_crash_fix">VAG 오류 해결</string>
     <string name="vag_crash_fix_desc">해당 옵션은 VAG Technisat 헤드 유닛 전용으로, 음악 앱에서 노래를 건너뛰거나, 일시중지/충돌/재부팅등의 문제를 해결합니다. 경고: VAG Technisat 헤드 유닛을 사용하지 않는 차량에서는 오류가 발생합니다.</string>
     <string name="usb_mode">USB 모드</string>
-    <string name="usb_mode_desc">기기가 차량에 연결되는 방식을 변경합니다. AAWireless 기기를 차량에 첫 연결 시, 필요한 설정값이 자동으로 인식후 적용됩니다. 다른 차량에서 기기를 사용하실 경우 해당 설정 변경이 필요할 수 있습니다.</string>
+    <string name="usb_mode_desc">기기가 차량에 연결되는 방식을 변경합니다. AAWireless 기기를 차량에 첫 연결할 시, 필요한 설정값이 자동으로 인식 후 적용됩니다. 다른 차량에서 기기를 사용하실 경우 해당 설정 변경이 필요할 수 있습니다.</string>
     <string name="wifisetting">WiFi 설정</string>
     <string name="dpi">DPI 변경</string>
     <string name="dpi_desc">차량의 기본값을 위해서는 0으로 설정 바랍니다</string>
@@ -58,7 +58,7 @@
     <string name="media_sink">미디어 비동기화</string>
     <string name="media_sink_desc">활성화 할 시 다른 블루투스 스피커를 통해 음성을 재생할 수 있습니다.</string>
     <string name="tts_sink">TTS 비동기화</string>
-    <string name="tts_sink_desc">활성화할 시 다른 블루투스 스피커를 통해 통해 내비게이션 안내를 받아보실 수 있습니다.</string>
+    <string name="tts_sink_desc">활성화할 시 다른 블루투스 스피커를 통해 내비게이션 안내를 받으실 수 있습니다.</string>
     <string name="auto_video_focus">자동 미디어 시작</string>
     <string name="auto_video_focus_desc">이 설정은 기기 부팅 시 자동으로 미디어 시작을 요청합니다. 활성화할 시 휴대폰과 연결 후 차량에서 Android Auto 아이콘을 누를 필요 없이 자동으로 실행됩니다. 모든 차량에서 작동하지 않을 수 있습니다.</string>
     <string name="wifi_connect_timeout">WiFi 연결 시간 초과</string>
@@ -121,7 +121,7 @@
     <string name="wifi_client_pass_desc">클라이언트의 네트워크 암호를 입력해주세요</string>
     <string name="wifi_channel">WiFi 채널</string>
     <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
-    <string name="country_setting_desc">국가를 선택하여 해당 국가의 WiFi 규정을 적용합니다. 올바른 국가를 선택하여, 해당 국가의 WiFi 규정 준수는 오로지 사용자의 책임입니다. 국가 선택 이후, 각국의 규정을 불러오기 위해서는 재부팅이 필요할 수 있습니다. </string>
+    <string name="country_setting_desc">국가를 선택하여 해당 국가의 WiFi 규정을 적용합니다. 올바른 국가를 선택하여 주시기 바라며, 해당 국가의 WiFi 규정 준수는 오로지 사용자의 책임입니다. 국가 선택 이후, 각국의 규정을 불러오기 위해서 재부팅이 진행됩니다.</string>
     <string name="country">국가</string>
     <string name="country_desc">해당되는 국가를 선택해주세요</string>
     <string name="requires_v2">하단의 몇몇 옵션 사용을 위해서는 펌웨어 버전이 2.0.0 이상이여야합니다. 기기의 펌웨어를 업데이트 바랍니다.</string>
@@ -206,6 +206,7 @@
     <string name="unpair_phone">페어링 해제</string>
     <string name="increase_priority">우선 순위 올리기</string>
     <string name="decrease_priority">우선 순위 내리기</string>
+    <string name="paired_phones_non_functional_warning">상시 전원 혹은 동글 모드가 활성화될 시 앱 내 휴대폰 연결 우선순위 관리는 작동하지 않습니다. 상시 전원 혹은 동글 모드가 활성화된 상태에서 휴대폰 연결 우선순위 설정을 원하실 시, 차량의 블루투스 핸즈프리 연결에서 지정하십시오.</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">문제 해결</string>
@@ -218,6 +219,7 @@
     <string name="led_solid_blue">파란 점등</string>
     <string name="no_solid_blue">아니요, 파란색이 점등합니다</string>
     <string name="led_solid_green">초록 점등</string>
+    <string name="led_solid_white">하얀 점등</string>
     <string name="is_wifi_visible_title">WiFi가 보이시나요??</string>
     <string name="wireless_projection_auto_title">무선 프로젝션</string>
     <string name="wireless_projection_auto_desc">아래 지침에 따라 무선 프로젝션이 활성화되어 있는지 확인하십시오. 그런 다음 \"다음\" 버튼을 누르십시오.</string>
