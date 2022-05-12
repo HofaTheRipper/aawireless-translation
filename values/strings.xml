@@ -201,13 +201,13 @@
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Order now!</string>
     <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
-    <string name="connect">Connect</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">Paired phones</string>
     <string name="unpair_phone">Unpair phone</string>
     <string name="increase_priority">Increase priority</string>
     <string name="decrease_priority">Decrease priority</string>
+    <string name="paired_phones_non_functional_warning">With start / stop mode or dongle mode enabled phone prioritization is not functional. For prioritizing phones with start / stop or dongle mode enabled please prioritize phone handsfree connections on your car radio if possible.</string>
 
     <string name="unstable_warning" translatable="false">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
     <string name="delete_account" translatable="false">Delete account</string>
@@ -220,8 +220,7 @@
     <string name="widget_force_connect" translatable="false">Force connect</string>
     <string name="widget_force_connect_desc" translatable="false">Device force connection widget</string>
     <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">Device force connection shortcut configuration</string>
-    <string name="starting_aa">Starting Android Auto</string>
+    <string name="title_activity_widget_force_connection" translatable="false">Device force connection widget configuration</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Troubleshooting</string>
@@ -234,6 +233,7 @@
     <string name="led_solid_blue">Solid blue</string>
     <string name="no_solid_blue">No, it\'s solid blue</string>
     <string name="led_solid_green">Solid green</string>
+    <string name="led_solid_white">Solid white</string>
     <string name="is_wifi_visible_title">Is Wi-Fi visible?</string>
     <string name="wireless_projection_auto_title">Wireless Projection</string>
     <string name="wireless_projection_auto_desc">Please ensure Wireless Projection is enabled by following the instructions below. Afterwards please press the \"Next\" button.</string>
@@ -269,5 +269,5 @@
     <string name="close_troubleshooting">Close troubleshooting</string>
     <string name="no_device_selected">No device selected, returning to Home</string>
     <string name="reset_device_title">Reset device</string>
-    <string name="reset_device_desc">Please first reset your device to default settings by pressing Next.</string>
+    <string name="reset_device_desc">Please reset your device to default settings by pressing Next.</string>
 </resources>
