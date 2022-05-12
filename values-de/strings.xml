@@ -1,0 +1,273 @@
+<resources>
+    <string name="aawireless" translatable="false">AAWireless</string>
+    <string name="get_going">Lege Los</string>
+    <string name="step">Schritt %1$d / %2$d</string>
+    <string name="start">Start</string>
+    <string name="connect_phone">Bitte starte dein Fahrzeug und verbinde dein Smartphone als erstes mit einem USB Kabel.</string>
+    <string name="to_begin">Um mit der Einrichtung zu beginnen vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto App aktiviert ist</string>
+    <string name="plug_in_aaw">Trenne die USB Verbindung deines Smartphones und verbinde dein AAWireless Gerät</string>
+
+    <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, musst du diese in den Entwicklereinstellungen aktivieren. Bitte führe folgende Schritte aus:
+        \n
+        \nIn den Android Auto Einstellungen tippe 10 mal hintereinander auf das Versionsfeld unten.
+        \nBestätige, dass du die Entwicklereinstellungen aktivieren möchtest.
+        \nVom rechten oberen Menü aus wähle \"Entwicklereinstellungen\" und dann aktiviere die Option \"Kabellose Projektion hinzufügen\"
+        \n
+        \n<p>Siehe folgende Bilder:</p>
+</string>
+    <string name="start_setup">Starte Einrichtung</string>
+    <string name="open_aa_settings">Öffne Android Auto Einstellungen</string>
+    <string name="open_bluetooth_settings">Öffne Bluetooth Einstellungen</string>
+    <string name="open_wifi_settings">Öffne Wi-Fi Einstellungen</string>
+    <string name="open_troubleshooting">Öffne Fehlerbehebung</string>
+    <string name="could_not_open_aa_settings">Konnte die Android Auto Einstellungen nicht öffnen. Ist Android Auto installiert?</string>
+    <string name="next">Weiter</string>
+    <string name="plugin">Einstecken</string>
+    <string name="searching">Suche</string>
+    <string name="for_aawireless">nach AAWireless Gerät...</string>
+    <string name="device_found">Gerät gefunden</string>
+    <string name="launching">Starte...</string>
+    <string name="could_not_pair">Konnte nicht pairen</string>
+    <string name="could_not_pair_desc">Konnte nicht pairen. Bitte starte das Gerät neu oder versuche das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu pairen.</string>
+    <string name="bt_not_found">Nicht gefunden</string>
+    <string name="bt_not_found_desc">Ist dein Gerät eingeschalten? Wenn ja, versuche das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu pairen.</string>
+    <string name="retry">Wiederholen</string>
+    <string name="pairing">Paire...</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="download_now">Jetzt herunterladen</string>
+    <string name="download_later">Später herunterladen</string>
+    <string name="warning">Warnung</string>
+    <string name="error_min_length">Die Anzahl der Zeichen muss größer als %d sein</string>
+    <string name="error_max_length">Die Anzahl der Zeichen muss kleiner als %d sein</string>
+    <string name="enable">Aktivieren</string>
+    <string name="disable">Deaktivieren</string>
+    <string name="enable_bluetooth">Aktiviere Bluetooth</string>
+    <string name="please_enable_bluetooth">Bitte aktiviere Bluetooth um diese App zu verwenden.</string>
+
+    <!-- Preferences -->
+    <string name="passthrough">Passthrough</string>
+    <string name="passthrough_desc">Wenn aktiviert, werden die Daten zwischen Smartphone und Fahrzeug direkt, ohne Modifikationen, durchgeschleust. Dies könnte Kompatibilitätsprobleme mit manchen Fahrzeugen beheben, deaktiviert aber alle anderen Funktionen.</string>
+    <string name="vag_crash_fix">VAG crash fix</string>
+    <string name="vag_crash_fix_desc">Diese Option behebt einen Bug bei VAG Technisat Einheiten, welcher die Einheit beim skippen/pausieren von Musiktiteln abstürzen/neustarten lässt. Bitte nicht für andere Fahrzeuge aktivieren, da es sonst zu Gltches führen kann.</string>
+    <string name="usb_mode">USB Modus</string>
+    <string name="usb_mode_desc">Wähle, wie das Gerät mit dem Fahrzeug verbunden ist. Dies sollte beim ersten Verbinden automatisch erkannt werden, aber womöglich musst du die Option anpassen um das Gerät im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
+    <string name="wifisetting">WiFi Einstellungen</string>
+    <string name="dpi">Ändere DPI</string>
+    <string name="dpi_desc">Setze den Wert auf 0 um die Fahrzeugeinstellungen zu verwenden</string>
+    <string name="remove_tap">Entferne die Tap Einschränkungen</string>
+    <string name="remove_tap_desc">Wenn aktiviert, lassen sich mehr als 6 Taps hintereinander ohne Popup durchführen. Warnung! Dies kann zu ungenauem oder verzögerten GPS Daten führen.</string>
+    <string name="media_sink">Deaktiviere "media sink"</string>
+    <string name="media_sink_desc">Wenn diese Option aktiviert ist, kannst du deine Medien über einen anderen Bluetooth Empfänger wiedergeben</string>
+    <string name="tts_sink">Deaktiviere "TTS sink"</string>
+    <string name="tts_sink_desc">Wenn diese Option aktiviert ist, kannst du deine Navigationstöne und Anweisungen über einen anderen Bluetooth Empfänger wiedergeben</string>
+    <string name="auto_video_focus">Auto Video Fokus</string>
+    <string name="auto_video_focus_desc">Diese Option fordert zu Beginn einen Video Fokus an, welcher bewirkt, dass Android Auto ohne einen Knopf zu drücken am Display erscheint. Dies funktioniert nicht bei allen Fahrzeugen.</string>
+    <string name="wifi_connect_timeout">Wifi Verbindungstimeout</string>
+    <string name="wifi_connect_timeout_desc">Verstelle diesen Wert, wenn die Verbindung zum Gerät zu lange dauert. Die Zeit wird in Millisekunden eingegeben.</string>
+    <string name="prefer_last_connected_phone">Bevorzuge zuletzt verbundenes Smartphone</string>
+    <string name="developerMode">Entwickler Modus</string>
+    <string name="developerMode_desc">Aktiviere dies nur für App Entwicklungszwecke.</string>
+    <string name="dongle_mode">Dongle Modus</string>
+    <string name="dongle_mode_desc">Der Dongle Modus bewirkt, dass AAWireless die native Dongle Logik von Android Auto verwendet. Dies kann Bluetooth Verbindungsprobleme beheben. Bevor AAWireless im Dongle Modus betrieben wird verbinde dein Smartphone bitte über ein USB Kabel mit dem Fahrzeug. Während die Android Auto Verbindung auf dem Fahrzeugbildchirm aktiv ist, steck das Smartphone ab und verbinde dein AAwireless Gerät mit dem gleichen USB-Anschluss.</string>
+    <string name="factory_reset">Auf Werkseinstellungen zurücksetzen</string>
+    <string name="factory_reset_confirm">Bist du sicher, dass du zurücksetzen möchtest?</string>
+    <string name="save">Speichern</string>
+    <string name="finish">Fertigstellen</string>
+    <string name="device_settings">Geräteeinstellungen</string>
+    <string name="help_and_support">Hilfe und Support</string>
+    <string name="ok">OK</string>
+    <string name="android_auto_should_start">Android Auto sollte innerhalb einer Minute starten. Wenn nicht, öffne die Fehlerbehebung mit dem nachfolgenden Button.</string>
+    <string name="add_new_device">Neues Gerät hinzufügen</string>
+    <string name="mtp">MTP</string>
+    <string name="direct">Direkt</string>
+    <string name="mtp_force">MTP mit erzwungenem Start</string>
+    <string name="mtp_retry">MTP mit Wiederholung</string>
+    <string name="usb_default">Standart</string>
+
+    <!-- OTA -->
+    <string name="ota_title">Aktualisiere dein Gerät</string>
+    <string name="ota_start_update">Starte Aktualisierung</string>
+    <string name="ota_notification_channel_name">AAWireless OTA</string>
+    <string name="ota_download_start">Starte Download</string>
+    <string name="ota_downloading">Downloade: %d%%</string>
+    <string name="ota_download_complete">Download fertiggestellt</string>
+    <string name="ota_download_failed">Download fehlgeschlagen</string>
+    <string name="ota_update_starting">Starte Aktualisierung</string>
+    <string name="ota_update_pending">Aktualisierung ausstehend</string>
+    <string name="ota_updating">Aktualisiere: %d%%</string>
+    <string name="ota_wait_for_reboot">Warte auf Neustart</string>
+    <string name="ota_update_complete">Aktualisierung fertiggestellt</string>
+    <string name="ota_update_failed">Aktualisierung fehlgeschlagen</string>
+    <string name="ota_connecting_to_device">Verbinde zu Gerät</string>
+    <string name="ota_download_pending">Wird heruntergeladen wenn mit WiFi verbunden</string>
+    <string name="ota_update_available">Aktualisierung vorhanden</string>
+    <string name="ota_no_update_available">Keine Aktualisierung vorhanden</string>
+    <string name="ota_getting_version_info">Hole Versionsinformation...</string>
+    <string name="ota_getting_version_info_failed">Konnte die Versionsinformation nicht lesen. Ist das Gerät eingeschalten?</string>
+    <string name="ota_current_version">Aktuelle: %s</string>
+    <string name="ota_latest_version">Neueste: %s</string>
+    <string name="ota_start_download">Starte Download</string>
+    <string name="dismiss">Abbrechen</string>
+    <string name="notification">Benachrichtigung</string>
+    <string name="changelog">Changelog</string>
+    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
+    <string name="disable_vpn">Wenn du einen VPN nutzt, deaktivier den VPN bitte oder setze die AAWireless App auf die Whitelist bevor du die Aktualisierung startest.</string>
+
+    <string name="ota_metered_network">Du verwendest eine getaktete Verbindung. Bist du sicher, dass du diese Aktualisierung jetzt herunterladen möchtest? Du kannst ihn verschieben oder gleich machen.</string>
+
+    <string name="wifi_client_desc">WiFi client Modus erlaubt es einen Hotspot wie etwa einen Fahzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den STart/Stop Modus und den Automatischen Verbindungsmodus. </string>
+    <string name="wifi_client_ssid">Client SSID</string>
+    <string name="wifi_client_ssid_desc">Bitte gib den Client Netzwerknamen ein</string>
+    <string name="wifi_client_pass">Client Passwort</string>
+    <string name="wifi_client_pass_desc">Bitte gib das Client Netzwerkpasswort ein</string>
+    <string name="wifi_channel">WiFi Kanal</string>
+    <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
+    <string name="country_setting_desc">Wähle das Land um die dort geltenden WiFi Bestimmungen zu aktivieren. Es ist in der Verantwortung des Anwenders dieses korrekt einzustellen. Nach dem Wechsel des Landes wird das Gerät neu gestartet.</string>
+    <string name="country">Land</string>
+    <string name="country_desc">Wähle das entsprechende Land aus</string>
+    <string name="requires_v2">Einige der Optionen benötigen Firmware 2.0.0 oder höher.</string>
+
+    <string name="see_faq">F.A.Q.</string>
+    <string name="bug_report_available">Fehlerbericht verfügbar</string>
+    <string name="start_debug_mode">Starte Debug Modus</string>
+    <string name="stop_debug_mode">Stoppe Debug Modus und erstelle Fehlerbericht</string>
+    <string name="send_mail">Sende e-mail</string>
+    <string name="bug_report_nag">Bitte erstelle nur dann einen Fehlerbericht, wenn der Support danach fragt. Fehlerberichte ohne Support Ticket werden nicht bearbeitet.</string>
+    <string name="bug_report">Fehlerbericht</string>
+    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen drücke auf den "Starte Debug Modus" Button. Wenn das Problem aufgetreten ist, drücke den "Stoppe Debug Modus" Button. Nachdem der Fehlerbericht erstellt wurde wird ein neues Fenster geöffnet. Hier kannst du den Fehlerbericht einreichen. Bitte nur verwenden, wenn der Support dannach fragt.</string>
+    <string name="downloading_log">Log herunterladen</string>
+    <string name="download_log_failed">Herunterladen des Logs fehlgeschlagen</string>
+    <string name="log_download_notification_channel_name">Fehlerbericht</string>
+    <string name="issue_description">Bitte beschreibe den Fehler.</string>
+    <string name="send">Senden</string>
+    <string name="support_request_for">Supportanfrage für %s</string>
+    <string name="support_address">mailto:support@cpeb.it</string>
+    <string name="faq_address">https://cpeb.freshdesk.com</string>
+    <string name="could_not_get_debug_status">Konnte Debug Status nicht ermitteln. Ist dein AAWireless Gerät eingeschalten?</string>
+    <string name="submit">Abschicken</string>
+
+    <string name="could_not_get_settings">Konnte Einstellungen nicht lesen. Ist dein Gerät eingeschalten?</string>
+    <string name="could_not_save_settings">Konnte die Einstellungen nicht speichern. Ist dein Gerät eingeschalten?</string>
+
+    <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Versuch es bitte nochmal.</string>
+    <string name="start_stop">Start / Stop</string>
+    <string name="start_stop_draw_over_other_apps">Um Start / Stop zu verwenden wird die Berechtigung "Über anderen Apps anzeigen" benötigt.\n\nBitte such nach AAWireless in den "Über anderen Apps anzeigen" Einstellungen erlaube es.</string>
+    <string name="start_stop_desc">Wenn dein Fahrzeug den USB Anschluss nie stromlos schaltet kannst du die Automatische Verbindung abschalten und die Fahrzeug Bluetooth Verbindung zum Starten / Stoppen der Android Auto Verbindung verwenden.</string>
+    <string name="enable_start_stop">Aktiviere Start / Stop</string>
+    <string name="select_car_or_headunit">Wähle Fahrzeug / Haupteinheit</string>
+    <string name="permission_needed">Berechtigung benötigt</string>
+    <string name="permission_required">Berechtigung erforderlich</string>
+
+    <string name="connecting_to_device">Verbindung zu Gerät</string>
+    <string name="delay_connect_to_device">Verzögere Verbindung zu Gerät</string>
+    <string name="connection_lost_reconnecting_to_device">Verbindung verloren, verbinde wieder zu Gerät</string>
+    <string name="connected_to_device">Mit Gerät verbunden</string>
+    <string name="disconnecting_from_device">Trenne Verbindung zu Gerät</string>
+    <string name="wifi_not_enabled">WiFi nicht aktiviert. Bitte schalte WiFi ein.</string>
+    <string name="draw_overlays_not_enabled">"Über anderen Apps anzeigen" nicht aktiviert. Bitte aktivieren</string>
+    <string name="idle">Idle</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Neustart</string>
+    <string name="enable_wifi">Aktiviere WiFi</string>
+    <string name="enable_draw_overlays">Aktiviere "Über anderen Apps anzeigen"</string>
+
+    <string name="already_a_device">Hast du schon ein AAWireless Gerät? Lass uns loslegen!</string>
+
+    <string name="invalid_email_address">Ungültige e-mail Adresse</string>
+    <string name="required_field">Dieses Feld wird benötigt</string>
+    <string name="lets_start">Lass uns loslegen</string>
+    <string name="go_to_settings">Gehe in die Einstellungen</string>
+    <string name="welcome">Willkommen</string>
+    <string name="system_update">Systemaktualisierung</string>
+    <string name="select_device">Geräteauswahl</string>
+    <string name="setting_not_available">Option nicht verfügbar</string>
+    <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 wird in Kürze ausgerollt.</string>
+    <string name="start_stop_not_available_desc">Start/Stop kann nicht zusammen mit dem WiFi Client Modus verwendet werden.</string>
+    <string name="menu_not_available">Menü nicht verfügbar</string>
+    <string name="menu_not_available_desc">Dieses Menü ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 wird in Kürze ausgerollt.</string>
+    <string name="enabled">Aktiviert</string>
+    <string name="disabled">Deaktiviert</string>
+    <string name="could_not_change_debug_mode">Konnte den Debug Modus nicht ändern</string>
+    <string name="could_not_get_device_information">Geräteinformationen konnten nicht geladen werden. Ist das Gerät eingeschalten?</string>
+    <string name="could_not_send_bug_report">Fehlerbericht konnte nicht gesendet werden.</string>
+    <string name="bluetooth_permission">Um die App zu verwenden wird der Bluetooth Zugriff benötigt. Bitte Berechtigung erteilen.</string>
+    <string name="exit">Schließen</string>
+    <string name="grant">Erteilen</string>
+    <string name="wifi_mode">WiFi Modus</string>
+    <string name="wifi_band">WiFi Frequenzband</string>
+    <string name="client">Client</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="wifi_24ghz">2.4 Ghz</string>
+    <string name="wifi_5ghz">5 Ghz</string>
+    <string name="order_now">Bestelle jetzt!</string>
+    <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
+
+    <!-- Paired phone management -->
+    <string name="paired_phones">Gepairte Smartphones</string>
+    <string name="unpair_phone">Unpair Smartphone</string>
+    <string name="increase_priority">Erhöhe Priorität</string>
+    <string name="decrease_priority">Vermindere Priorität</string>
+    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle Modus funktioniert die Smartphone Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen priorisiere bitte die Smartphone Handsfree Verbindungen bei deinem Fahrzeug Radio, wenn möglich.</string>
+
+    <string name="unstable_warning" translatable="false">Dies ist eine (potenziell) unstabile Entwicklerversion der AAWireless App. Es können Fehler auftreten oder Features könnten nicht richtig funktionieren. Wenn du eine stabile Version haben möchtest, lösche den Firebase Account und lade die App aus dem Playstore.\n\nUm Den Account zu löschen, wähle den \"Lösche Account\" Button, login mit deinem Google Account und drück auf den \"Lösche Account\" button auf der Webseite.</string>
+    <string name="delete_account" translatable="false">Lösche Account</string>
+
+    <!-- Widget TODO: translate -->
+    <string name="widget_override" translatable="false">Smartphone Override</string>
+    <string name="widget_override_desc" translatable="false">Smartphone Verbindung Override Widget</string>
+    <string name="widget_override_device_name" translatable="false">Pixel 6</string>
+    <string name="title_activity_widget_override_connection" translatable="false">Smartphone Override Widget Konfiguration</string>
+    <string name="widget_force_connect" translatable="false">Erzwinge Verbindung</string>
+    <string name="widget_force_connect_desc" translatable="false">Erzwungene Geräteverbindung Widget</string>
+    <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
+    <string name="title_activity_widget_force_connection" translatable="false">Erzwungene Geräteverbindung Widget Konfiguration</string>
+
+    <!-- Troubleshooting -->
+    <string name="troubleshooting">Fehlerbehebung</string>
+    <string name="led_color_title">LED Farbe?</string>
+    <string name="led_color_desc">Könntest dubitte die Farbe der LED kontrollieren?</string>
+    <string name="led_blinking_green">Grün blinkend</string>
+    <string name="no_blinking_green">Nein, es blinkt Grün</string>
+    <string name="led_blinking_blue">Blau blinkend</string>
+    <string name="no_blinking_blue">Nein, es blinkt Blau</string>
+    <string name="led_solid_blue">Blau leuchtend</string>
+    <string name="no_solid_blue">Nein, es leuchtet Blau</string>
+    <string name="led_solid_green">Grün leuchtend</string>
+    <string name="led_solid_white">Weiß leuchtend</string>
+    <string name="is_wifi_visible_title">Ist Wi-Fi sichtbar?</string>
+    <string name="wireless_projection_auto_title">Kabellose Projektion</string>
+    <string name="wireless_projection_auto_desc">Bitte gehe sicher, dass die Kabellose Projektion aktiviert ist, wie unten beschrieben. Dannach drücke bitte den \"Weiter\" Button.</string>
+    <string name="contact_support">Kontaktiere den Support</string>
+    <string name="other_issue">Andere Probleme</string>
+    <string name="change_bandwidth_title">Wi-Fi 2.4 GHz</string>
+    <string name="change_bandwidth_desc">Dein Smartphone könnte nur 2.4 GHz WiFi unterstüzen. Bitte benutze den Button um das Gerät auf 2.4 GHz Wi-Fi einzustellen.</string>
+    <string name="contact_support_title">Kontaktiere den Support</string>
+    <string name="contact_support_desc">Kontaktiere den Support für weitere Anweisungen.</string>
+    <string name="does_not_work_over_usb_title">Kabelverbindung</string>
+    <string name="does_not_work_over_usb_desc">Funktioniert Android Auto wie gewünscht über eine USB Kabelverbindung?</string>
+    <string name="is_wifi_visible_desc">Bitte drücke auf den Button unten um die WiFi Einstellungen zu öffnen. Ist eine Verbindung mit dem Namen \"AAWireless-xxxxxx\" oder \"AndroidAuto-AAWxxxxx\" vorhanden?</string>
+    <string name="is_wifi_visible_desc2">Ist es vorhanden?</string>
+    <string name="yes">Ja</string>
+    <string name="one_button">Weiter</string>
+    <string name="service_reset">Öffne die Google Play Dienste Einstellungen</string>
+    <string name="aa_reset">Öffne die Android Auto Einstellungen</string>
+    <string name="no">Nein</string>
+    <string name="usb_c_cable_title">USB-C Kabel</string>
+    <string name="usb_c_cable_desc">Manchmal werden Verbindungsabbrücke durch das Kabel ausgelöst. Bitte versuche ein anderes USB-C Kabel und drücke auf Weiter.</string>
+    <string name="does_it_work_title">Funktioniert es?</string>
+    <string name="does_it_work_desc">Bitte scteck das Gerät nochmal aus und wieder ein. Android Auto sollte innerhalb einer Minute starten. Ist Android Auto nun gestartet und läuft?</string>
+    <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless Gerät über Bluetooth.</string>
+    <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth Verbindung </string>
+    <string name="clear_title">Cache und Speicher</string>
+    <string name="clear_desc">Bitte drück auf den Button unten und lösche den Speicher von Android Auto unter \"Speicher und Cache\", drücke 2 mal Zurück und dann unten auf \"Weiter\".</string>
+    <string name="set_usb_mode_desc">Bitte drücke auf den Button unten und setze den USB Modus auf MTP.</string>
+    <string name="enable_passthrough_title">Aktiviere Passthrough</string>
+    <string name="enable_passthrough_desc">Bitte aktiviere den Passthrough Modus indem du auf den Button unten drückst.</string>
+    <string name="enter_problem_description">Bitte gib eine Fehlerbeschreibung an:</string>
+    <string name="aa_working_title">Es funktioniert!</string>
+    <string name="aa_working_desc">Wir sind froh, dass du es zum laufen gebracht hast! Hab Spaß mit deinem Gerät! Wenn du weitere Hilfe benötigst benutze bitte den Button unten um den Support zu kontaktieren.</string>
+    <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
+    <string name="no_device_selected">Kein Gerät ausgewählt. Gehe zurück auf den Startbildschirm.</string>
+    <string name="reset_device_title">Gerät zurücksetzen</string>
+    <string name="reset_device_desc">Bitte setze dein Gerät zurück auf Werkseinstellungen indem du auf Weiter drückst.</string>
+</resources>
