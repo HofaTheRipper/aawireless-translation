@@ -1,9 +1,9 @@
-<resources>
+s<resources>
     <string name="aawireless" translatable="false">AAWireless</string>
     <string name="get_going">Lege Los</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
-    <string name="connect_phone">Bitte starte dein Fahrzeug und verbinde dein Smartphone als erstes mit einem USB Kabel.</string>
+    <string name="connect_phone">Bitte starte dein Fahrzeug und verbinde dein Smartphone zuerst mit einem USB Kabel.</string>
     <string name="to_begin">Um mit der Einrichtung zu beginnen vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto App aktiviert ist</string>
     <string name="plug_in_aaw">Trenne die USB Verbindung deines Smartphones und verbinde dein AAWireless Gerät</string>
 
@@ -51,10 +51,10 @@
     <string name="vag_crash_fix_desc">Diese Option behebt einen Bug bei VAG Technisat Einheiten, welcher die Einheit beim skippen/pausieren von Musiktiteln abstürzen/neustarten lässt. Bitte nicht für andere Fahrzeuge aktivieren, da es sonst zu Gltches führen kann.</string>
     <string name="usb_mode">USB Modus</string>
     <string name="usb_mode_desc">Wähle, wie das Gerät mit dem Fahrzeug verbunden ist. Dies sollte beim ersten Verbinden automatisch erkannt werden, aber womöglich musst du die Option anpassen um das Gerät im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
-    <string name="wifisetting">WiFi Einstellungen</string>
+    <string name="wifisetting">WiFi Optionen</string>
     <string name="dpi">Ändere DPI</string>
     <string name="dpi_desc">Setze den Wert auf 0 um die Fahrzeugeinstellungen zu verwenden</string>
-    <string name="remove_tap">Entferne die Tap Einschränkungen</string>
+    <string name="remove_tap">Tap Limit aus</string>
     <string name="remove_tap_desc">Wenn aktiviert, lassen sich mehr als 6 Taps hintereinander ohne Popup durchführen. Warnung! Dies kann zu ungenauem oder verzögerten GPS Daten führen.</string>
     <string name="media_sink">Deaktiviere "media sink"</string>
     <string name="media_sink_desc">Wenn diese Option aktiviert ist, kannst du deine Medien über einen anderen Bluetooth Empfänger wiedergeben</string>
@@ -62,14 +62,14 @@
     <string name="tts_sink_desc">Wenn diese Option aktiviert ist, kannst du deine Navigationstöne und Anweisungen über einen anderen Bluetooth Empfänger wiedergeben</string>
     <string name="auto_video_focus">Auto Video Fokus</string>
     <string name="auto_video_focus_desc">Diese Option fordert zu Beginn einen Video Fokus an, welcher bewirkt, dass Android Auto ohne einen Knopf zu drücken am Display erscheint. Dies funktioniert nicht bei allen Fahrzeugen.</string>
-    <string name="wifi_connect_timeout">Wifi Verbindungstimeout</string>
+    <string name="wifi_connect_timeout">Wifi Timeout</string>
     <string name="wifi_connect_timeout_desc">Verstelle diesen Wert, wenn die Verbindung zum Gerät zu lange dauert. Die Zeit wird in Millisekunden eingegeben.</string>
     <string name="prefer_last_connected_phone">Bevorzuge zuletzt verbundenes Smartphone</string>
     <string name="developerMode">Entwickler Modus</string>
     <string name="developerMode_desc">Aktiviere dies nur für App Entwicklungszwecke.</string>
     <string name="dongle_mode">Dongle Modus</string>
     <string name="dongle_mode_desc">Der Dongle Modus bewirkt, dass AAWireless die native Dongle Logik von Android Auto verwendet. Dies kann Bluetooth Verbindungsprobleme beheben. Bevor AAWireless im Dongle Modus betrieben wird verbinde dein Smartphone bitte über ein USB Kabel mit dem Fahrzeug. Während die Android Auto Verbindung auf dem Fahrzeugbildchirm aktiv ist, steck das Smartphone ab und verbinde dein AAwireless Gerät mit dem gleichen USB-Anschluss.</string>
-    <string name="factory_reset">Auf Werkseinstellungen zurücksetzen</string>
+    <string name="factory_reset">Werksreset</string>
     <string name="factory_reset_confirm">Bist du sicher, dass du zurücksetzen möchtest?</string>
     <string name="save">Speichern</string>
     <string name="finish">Fertigstellen</string>
@@ -115,7 +115,7 @@
 
     <string name="ota_metered_network">Du verwendest eine getaktete Verbindung. Bist du sicher, dass du diese Aktualisierung jetzt herunterladen möchtest? Du kannst ihn verschieben oder gleich machen.</string>
 
-    <string name="wifi_client_desc">WiFi client Modus erlaubt es einen Hotspot wie etwa einen Fahzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den STart/Stop Modus und den Automatischen Verbindungsmodus. </string>
+    <string name="wifi_client_desc">WiFi Client Modus erlaubt es einen Hotspot wie etwa einen Fahzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den STart/Stop Modus und den Automatischen Verbindungsmodus. </string>
     <string name="wifi_client_ssid">Client SSID</string>
     <string name="wifi_client_ssid_desc">Bitte gib den Client Netzwerknamen ein</string>
     <string name="wifi_client_pass">Client Passwort</string>
@@ -128,7 +128,7 @@
     <string name="requires_v2">Einige der Optionen benötigen Firmware 2.0.0 oder höher.</string>
 
     <string name="see_faq">F.A.Q.</string>
-    <string name="bug_report_available">Fehlerbericht verfügbar</string>
+    <string name="bug_report_available">Fehler- bericht verfügbar</string>
     <string name="start_debug_mode">Starte Debug Modus</string>
     <string name="stop_debug_mode">Stoppe Debug Modus und erstelle Fehlerbericht</string>
     <string name="send_mail">Sende e-mail</string>
@@ -176,10 +176,10 @@
     <string name="invalid_email_address">Ungültige e-mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
     <string name="lets_start">Lass uns loslegen</string>
-    <string name="go_to_settings">Gehe in die Einstellungen</string>
+    <string name="go_to_settings">Gehe zu den Einstellungen</string>
     <string name="welcome">Willkommen</string>
-    <string name="system_update">Systemaktualisierung</string>
-    <string name="select_device">Geräteauswahl</string>
+    <string name="system_update">Systemupdate</string>
+    <string name="select_device">Geräte- auswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
     <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 wird in Kürze ausgerollt.</string>
     <string name="start_stop_not_available_desc">Start/Stop kann nicht zusammen mit dem WiFi Client Modus verwendet werden.</string>
@@ -225,7 +225,7 @@
     <!-- Troubleshooting -->
     <string name="troubleshooting">Fehlerbehebung</string>
     <string name="led_color_title">LED Farbe?</string>
-    <string name="led_color_desc">Könntest dubitte die Farbe der LED kontrollieren?</string>
+    <string name="led_color_desc">Könntest du bitte die Farbe der LED kontrollieren?</string>
     <string name="led_blinking_green">Grün blinkend</string>
     <string name="no_blinking_green">Nein, es blinkt Grün</string>
     <string name="led_blinking_blue">Blau blinkend</string>
