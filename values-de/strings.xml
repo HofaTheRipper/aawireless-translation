@@ -72,6 +72,8 @@ s<resources>
     <string name="factory_reset">Werksreset</string>
     <string name="factory_reset_confirm">Bist du sicher, dass du zurücksetzen möchtest?</string>
     <string name="save">Speichern</string>
+    <string name="saving">Speichere...</string>
+    <string name="skip">Überspringen</string>
     <string name="finish">Fertigstellen</string>
     <string name="device_settings">Geräteeinstellungen</string>
     <string name="help_and_support">Hilfe und Support</string>
@@ -154,6 +156,8 @@ s<resources>
     <string name="start_stop_draw_over_other_apps">Um Start / Stop zu verwenden wird die Berechtigung "Über anderen Apps anzeigen" benötigt.\n\nBitte such nach AAWireless in den "Über anderen Apps anzeigen" Einstellungen erlaube es.</string>
     <string name="start_stop_desc">Wenn dein Fahrzeug den USB Anschluss nie stromlos schaltet kannst du die Automatische Verbindung abschalten und die Fahrzeug Bluetooth Verbindung zum Starten / Stoppen der Android Auto Verbindung verwenden.</string>
     <string name="enable_start_stop">Aktiviere Start / Stop</string>
+    <string name="device_hfp_controlled">Gerät HFP gesteuert (experimentell)</string>
+    <string name="device_usb_controlled">Gerät USB gesteuert (experimentell)</string>
     <string name="select_car_or_headunit">Wähle Fahrzeug / Haupteinheit</string>
     <string name="permission_needed">Berechtigung benötigt</string>
     <string name="permission_required">Berechtigung erforderlich</string>
@@ -178,6 +182,7 @@ s<resources>
     <string name="lets_start">Lass uns loslegen</string>
     <string name="go_to_settings">Gehe zu den Einstellungen</string>
     <string name="welcome">Willkommen</string>
+    <string name="this_is_aawireless">Zu der Begleit-App von AAWireless, dem allerersten Android Auto Wireless Adapter.</string>
     <string name="system_update">Systemupdate</string>
     <string name="select_device">Geräte- auswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
@@ -255,7 +260,7 @@ s<resources>
     <string name="usb_c_cable_title">USB-C Kabel</string>
     <string name="usb_c_cable_desc">Manchmal werden Verbindungsabbrücke durch das Kabel ausgelöst. Bitte versuche ein anderes USB-C Kabel und drücke auf Weiter.</string>
     <string name="does_it_work_title">Funktioniert es?</string>
-    <string name="does_it_work_desc">Bitte scteck das Gerät nochmal aus und wieder ein. Android Auto sollte innerhalb einer Minute starten. Ist Android Auto nun gestartet und läuft?</string>
+    <string name="does_it_work_desc">Bitte steck das Gerät nochmal aus und wieder ein. Android Auto sollte innerhalb einer Minute starten. Bitte vergewissere dich, dass Android Auto nun korrekt läuft.</string>
     <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless Gerät über Bluetooth.</string>
     <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth Verbindung </string>
     <string name="clear_title">Cache und Speicher</string>
