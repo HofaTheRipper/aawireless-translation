@@ -72,6 +72,8 @@
     <string name="factory_reset">Restauração de fábrica</string>
     <string name="factory_reset_confirm">Tem certeza de que deseja redefinir?</string>
     <string name="save">Salvar</string>
+    <string name="saving">Salvando...</string>
+    <string name="skip">Pular</string>
     <string name="finish">Terminar</string>
     <string name="device_settings">Configurações do dispositivo</string>
     <string name="help_and_support">Ajuda e Suporte</string>
@@ -154,6 +156,8 @@
     <string name="start_stop_draw_over_other_apps">Para usar o recurso start stop precisamos da permissão "Exibir sobre outros aplicativos".\n\nNa tela de configurações "Exibir sobre outros aplicativos" procure AAWireless e ative sobre outros aplicativos.</string>
     <string name="start_stop_desc">Se o seu veículo mantém a porta USB sempre ligada, você pode desativar a conexão automática e selecionar a conexão viva-voz do carro para iniciar / parar a conexão do Android Auto.</string>
     <string name="enable_start_stop">Habilitar start / stop</string>
+    <string name="device_hfp_controlled">Dispositivo controlado por HFP (experimental)</string>
+    <string name="device_usb_controlled">Dispositivo controlado por USB (experimental)</string>
     <string name="select_car_or_headunit">Selecione carro / unidade principal</string>
     <string name="permission_needed">Permissão necessária</string>
     <string name="permission_required">Permissão necessária</string>
@@ -178,6 +182,7 @@
     <string name="lets_start">Vamos começar</string>
     <string name="go_to_settings">Vá para as configurações</string>
     <string name="welcome">Bem-vindo</string>
+    <string name="this_is_aawireless">Para o aplicativo complementar do AAWireless, o primeiro dongle Android Auto Wireless.</string>
     <string name="system_update">Atualização do sistema</string>
     <string name="select_device">Selecionar dispositivo</string>
     <string name="setting_not_available">Configuração não disponível</string>
@@ -255,7 +260,7 @@
     <string name="usb_c_cable_title">Cabo USB-C</string>
     <string name="usb_c_cable_desc">Às vezes, as desconexões podem ser causadas pelo cabo. Tente outro cabo USB-C e pressione próximo.</string>
     <string name="does_it_work_title">Funcionando?</string>
-    <string name="does_it_work_desc">Por favor, volte a ligar o seu dispositivo. Dentro de um minuto, o Android Auto deve iniciar. O Android Auto está funcionando agora?</string>
+    <string name="does_it_work_desc">Por favor, volte a ligar o seu dispositivo. Dentro de um minuto, o Android Auto deve iniciar. Verifique se o Android Auto está funcionando corretamente.</string>
     <string name="does_it_have_a_bluetooth_connection_desc">Por favor, conecte-se manualmente ao seu dispositivo AAAWireless através das configurações de bluetooth.</string>
     <string name="does_it_have_a_bluetooth_connection_title"> Conexão Bluetooth </string>
     <string name="clear_title">Cache e armazenamento</string>
