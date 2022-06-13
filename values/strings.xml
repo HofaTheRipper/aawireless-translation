@@ -72,6 +72,8 @@
     <string name="factory_reset">Factory reset</string>
     <string name="factory_reset_confirm">Are you sure you want to reset?</string>
     <string name="save">Save</string>
+    <string name="saving">Saving...</string>
+    <string name="skip">Skip</string>
     <string name="finish">Finish</string>
     <string name="device_settings">Device settings</string>
     <string name="help_and_support">Help and Support</string>
@@ -154,6 +156,8 @@
     <string name="start_stop_draw_over_other_apps">For using the start stop feature we need the "Display over other apps" permission.\n\nIn the "Display over other apps" settings screen, please look for AAWireless and allow drawing over other apps.</string>
     <string name="start_stop_desc">If your vehicle keeps the USB port always powered on, you can disable auto connect and select the car\'s handsfree connection to start / stop the Android Auto connection.</string>
     <string name="enable_start_stop">Enable start / stop</string>
+    <string name="device_hfp_controlled">Device HFP controlled (experimental)</string>
+    <string name="device_usb_controlled">Device USB controlled (experimental)</string>
     <string name="select_car_or_headunit">Select car / head unit</string>
     <string name="permission_needed">Permission needed</string>
     <string name="permission_required">Permission required</string>
@@ -178,6 +182,7 @@
     <string name="lets_start">Let\'s start</string>
     <string name="go_to_settings">Go to settings</string>
     <string name="welcome">Welcome</string>
+    <string name="this_is_aawireless">To the companion app of AAWireless, the very first Android Auto Wireless dongle.</string>
     <string name="system_update">System update</string>
     <string name="select_device">Select device</string>
     <string name="setting_not_available">Setting not available</string>
@@ -255,7 +260,7 @@
     <string name="usb_c_cable_title">USB-C cable</string>
     <string name="usb_c_cable_desc">Sometimes disconnections can be caused by the cable. Please try another USB-C cable and press next.</string>
     <string name="does_it_work_title">Running?</string>
-    <string name="does_it_work_desc">Please re-plug your device. Within one minute Android Auto should start. Is Android Auto up and running now?</string>
+    <string name="does_it_work_desc">Please re-plug your device. Within one minute Android Auto should start. Please verify if Android Auto is now running correctly.</string>
     <string name="does_it_have_a_bluetooth_connection_desc">Please manually connect to your AAWireless device via bluetooth settings.</string>
     <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth connection </string>
     <string name="clear_title">Cache and storage</string>
