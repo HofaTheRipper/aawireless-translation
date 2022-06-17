@@ -1,4 +1,4 @@
-s<resources>
+<resources>
     <string name="aawireless" translatable="false">AAWireless</string>
     <string name="get_going">Lege Los</string>
     <string name="step">Schritt %1$d / %2$d</string>
