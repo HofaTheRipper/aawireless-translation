@@ -1,6 +1,6 @@
 <resources>
     <string name="aawireless" translatable="false">AAWireless</string>
-    <string name="get_going">Lege Los</string>
+    <string name="get_going">Lass uns loslegen!</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
     <string name="connect_phone">Bitte starte dein Fahrzeug und verbinde dein Smartphone zuerst mit einem USB Kabel.</string>
