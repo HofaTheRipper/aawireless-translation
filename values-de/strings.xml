@@ -3,24 +3,24 @@
     <string name="get_going">Lege Los</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
-    <string name="connect_phone">Bitte starte dein Fahrzeug und verbinde dein Smartphone zuerst mit einem USB Kabel.</string>
-    <string name="to_begin">Um mit der Einrichtung zu beginnen vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto App aktiviert ist</string>
-    <string name="plug_in_aaw">Trenne die USB Verbindung deines Smartphones und verbinde dein AAWireless Gerät</string>
+    <string name="connect_phone">Bitte starte das Fahrzeug und verbinde dein Smartphone mit einem USB Kabel.</string>
+    <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto App aktiviert ist</string>
+    <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde dein AAWireless-Gerät</string>
 
-    <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, musst du diese in den Entwicklereinstellungen aktivieren. Bitte führe folgende Schritte aus:
+    <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, musst du diese in den Entwicklereinstellungen aktivieren. Bitte führe folgende Schritte durch:
         \n
-        \nIn den Android Auto Einstellungen tippe 10 mal hintereinander auf das Versionsfeld unten.
+        \nÖffne die Android Auto Einstellungen und tippe 10 Mal hintereinander auf das untere Versionsfeld.
         \nBestätige, dass du die Entwicklereinstellungen aktivieren möchtest.
-        \nVom rechten oberen Menü aus wähle \"Entwicklereinstellungen\" und dann aktiviere die Option \"Kabellose Projektion hinzufügen\"
+        \nWähle im rechten oberen Einstellungsmenü \"Entwicklereinstellungen\" und aktiviere dort die Option \"Kabellose Projektion hinzufügen\"
         \n
         \n<p>Siehe folgende Bilder:</p>
 </string>
     <string name="start_setup">Starte Einrichtung</string>
-    <string name="open_aa_settings">Öffne Android Auto Einstellungen</string>
-    <string name="open_bluetooth_settings">Öffne Bluetooth Einstellungen</string>
-    <string name="open_wifi_settings">Öffne WLAN Einstellungen</string>
+    <string name="open_aa_settings">Öffne Android Auto-Einstellungen</string>
+    <string name="open_bluetooth_settings">Öffne Bluetooth-Einstellungen</string>
+    <string name="open_wifi_settings">Öffne WLAN-Einstellungen</string>
     <string name="open_troubleshooting">Öffne Fehlerbehebung</string>
-    <string name="could_not_open_aa_settings">Konnte die Android Auto Einstellungen nicht öffnen. Ist Android Auto installiert?</string>
+    <string name="could_not_open_aa_settings">Android Auto-Einstellungen konnten nicht geöffnet werden. Ist Android Auto installiert?</string>
     <string name="next">Weiter</string>
     <string name="plugin">Einstecken</string>
     <string name="searching">Suche</string>
@@ -48,9 +48,9 @@
     <string name="passthrough">Passthrough</string>
     <string name="passthrough_desc">Wenn aktiviert, werden die Daten zwischen Smartphone und Fahrzeug direkt und ohne Modifikationen durchgeleitet. Dies könnte Kompatibilitätsprobleme mit manchen Fahrzeugen beheben, deaktiviert aber alle anderen Funktionen.</string>
     <string name="vag_crash_fix">VAG Crash-Fix</string>
-    <string name="vag_crash_fix_desc">Diese Option behebt einen Fehler bei VAG Technisat-Einheiten, der zum Absturz oder Neustart  beim Überspringen oder Pausieren von Musiktiteln führen kann. Bitte nicht für andere Einheiten aktivieren, da es sonst zu Funktionsstörungen kommen kann.</string>
+    <string name="vag_crash_fix_desc">Diese Option behebt einen Fehler bei VAG Technisat-Einheiten, der zum Absturz oder Neustart beim Überspringen oder Pausieren von Musiktiteln führen kann. Bitte nicht bei anderen Geräten aktivieren, da es sonst zu Funktionsstörungen kommen kann.</string>
     <string name="usb_mode">USB-Modus</string>
-    <string name="usb_mode_desc">Wähle, wie das Gerät mit dem Fahrzeug verbunden ist. Dies sollte beim ersten Verbinden automatisch erkannt werden, aber möglicherweise musst du die Option anpassen, um das Gerät im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
+    <string name="usb_mode_desc">Wählt den Verbindungsmodus zwischen AAWireless und der Fahrzeug-Einheit. Dieser sollte beim ersten Verbinden automatisch erkannt werden, möglicherweise musst du aber die Option anpassen, um das Gerät im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
     <string name="wifisetting">WLAN-Optionen</string>
     <string name="dpi">Ändere DPI</string>
     <string name="dpi_desc">Setze den Wert auf 0 um die Fahrzeugeinstellungen zu verwenden</string>
