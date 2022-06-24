@@ -173,7 +173,7 @@
     <string name="stop">Stop</string>
     <string name="restart">Neustart</string>
     <string name="enable_wifi">Aktiviere WLAN</string>
-    <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einzublenden"</string>
+    <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einblenden"</string>
 
     <string name="already_a_device">Hast du schon ein AAWireless Gerät? Dann lass uns loslegen!</string>
 
