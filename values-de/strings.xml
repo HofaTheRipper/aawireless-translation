@@ -47,21 +47,21 @@
     <!-- Preferences -->
     <string name="passthrough">Passthrough</string>
     <string name="passthrough_desc">Wenn aktiviert, werden die Daten zwischen Smartphone und Fahrzeug direkt und ohne Modifikationen durchgeleitet. Dies könnte Kompatibilitätsprobleme mit manchen Fahrzeugen beheben, deaktiviert aber alle anderen Funktionen.</string>
-    <string name="vag_crash_fix">VAG Crash-Fix</string>
-    <string name="vag_crash_fix_desc">Diese Option behebt einen Fehler bei VAG Technisat-Einheiten, der zum Absturz oder Neustart beim Überspringen oder Pausieren von Musiktiteln führen kann. Bitte nicht bei anderen Geräten aktivieren, da es sonst zu Funktionsstörungen kommen kann.</string>
+    <string name="vag_crash_fix">VW Crash-Fix</string>
+    <string name="vag_crash_fix_desc">Diese Option behebt einen Fehler bei VW Technisat-Einheiten, der zum Absturz oder Neustart beim Überspringen oder Pausieren von Musiktiteln führen kann. Bitte nicht bei anderen Geräten aktivieren, da es sonst zu Funktionsstörungen kommen kann.</string>
     <string name="usb_mode">USB-Modus</string>
     <string name="usb_mode_desc">Wählt den Verbindungsmodus zwischen AAWireless und der Fahrzeug-Einheit. Dieser sollte beim ersten Verbinden automatisch erkannt werden, möglicherweise musst du aber die Option anpassen, um das Gerät im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
     <string name="wifisetting">WLAN-Optionen</string>
     <string name="dpi">Ändere DPI</string>
-    <string name="dpi_desc">Setze den Wert auf 0 um die Fahrzeugeinstellungen zu verwenden</string>
+    <string name="dpi_desc">Setze den Wert auf 0 um den Fahrzeug-Standard zu verwenden</string>
     <string name="remove_tap">Click-Limit aus</string>
-    <string name="remove_tap_desc">Wenn aktiviert, wird die maximal erlaubte Anzahl von 6 aufeinander folgenden Bildschirm-Clicks deaktiviert. Warnung! Dies kann zu ungenauen oder verzögerten GPS Daten führen.</string>
+    <string name="remove_tap_desc">Wenn aktiviert, wird die maximal erlaubte Anzahl von 6 aufeinander folgende Bildschirm-Clicks deaktiviert. Warnung! Dies kann zu ungenauen oder verzögerten GPS Daten führen.</string>
     <string name="media_sink">Deaktiviere "Media-Sink"</string>
     <string name="media_sink_desc">Wenn diese Option aktiviert ist, kannst du deine Medien über einen anderen Bluetooth-Empfänger wiedergeben</string>
     <string name="tts_sink">Deaktiviere "TTS-Sink"</string>
     <string name="tts_sink_desc">Wenn diese Option aktiviert ist, kannst du die Navigations-Ansagen und Benachrichtigungen über einen anderen Bluetooth-Empfänger wiedergeben</string>
     <string name="auto_video_focus">Automatischer Video-Fokus</string>
-    <string name="auto_video_focus_desc">Mit dieser Funktion wird Android Auto direkt nach dem Start des Fahrzeuges angezeigt. Ein manuelle Auswahl auf dem Autoradio ist nicht erforderlich. Dies funktioniert nicht bei allen Fahrzeugen.</string>
+    <string name="auto_video_focus_desc">Mit dieser Funktion wird Android Auto direkt nach dem Start des Fahrzeuges angezeigt. Ein manuelle Auswahl auf der Geräteeinheit ist nicht erforderlich. Dies funktioniert nicht bei allen Fahrzeugen.</string>
     <string name="wifi_connect_timeout">WLAN-Timeout</string>
     <string name="wifi_connect_timeout_desc">Ändere diesen Wert, wenn die Verbindung zum Gerät zu lange dauert. Die Zeit wird in Millisekunden eingegeben.</string>
     <string name="prefer_last_connected_phone">Bevorzuge zuletzt verbundenes Smartphone</string>
