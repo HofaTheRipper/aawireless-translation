@@ -7,7 +7,7 @@
     <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto-App aktiviert ist</string>
     <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit dem AAWireless-Gerät</string>
 
-    <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, musst du diese in den Entwicklereinstellungen aktivieren. Bitte führe folgende Schritte durch:
+    <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, kann diese Option in den Entwicklereinstellungen aktiviert werden. Bitte führe folgende Schritte durch:
         \n
         \nÖffne die Android Auto Einstellungen und tippe 10 Mal hintereinander auf das untere Versionsfeld.
         \nBestätige, dass du die Entwicklereinstellungen aktivieren möchtest.
