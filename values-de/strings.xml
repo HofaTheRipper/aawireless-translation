@@ -5,7 +5,7 @@
     <string name="start">Start</string>
     <string name="connect_phone">Bitte starte das Infotainment-System des Fahrzeuges und verbinde dein Smartphone mit einem USB-Kabel.</string>
     <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto-App aktiviert ist</string>
-    <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit dem AAWireless-Gerät</string>
+    <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit dem AAWireless-Adapter</string>
 
     <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, kann diese Option in den Entwicklereinstellungen aktiviert werden. Bitte führe folgende Schritte durch:
         \n
@@ -24,13 +24,13 @@
     <string name="next">Weiter</string>
     <string name="plugin">Einstecken</string>
     <string name="searching">Suche</string>
-    <string name="for_aawireless">nach AAWireless-Gerät...</string>
-    <string name="device_found">AAWireless-Gerät gefunden</string>
+    <string name="for_aawireless">nach AAWireless-Adapter...</string>
+    <string name="device_found">AAWireless-Adapter gefunden</string>
     <string name="launching">Starte...</string>
     <string name="could_not_pair">Kopplung fehlgeschlagen</string>
     <string name="could_not_pair_desc">Kopplung fehlgeschlagen. Bitte starte das Gerät neu oder versuche, das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu koppeln.</string>
     <string name="bt_not_found">Nicht gefunden</string>
-    <string name="bt_not_found_desc">Ist dein AAWireless-Gerät eingeschaltet? Wenn ja, versuche das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu koppeln.</string>
+    <string name="bt_not_found_desc">Ist dein AAWireless-Adapter eingeschaltet? Wenn ja, versuche das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu koppeln.</string>
     <string name="retry">Wiederholen</string>
     <string name="pairing">Kopplung...</string>
     <string name="cancel">Abbrechen</string>
@@ -145,11 +145,11 @@
     <string name="support_request_for">Supportanfrage für %s</string>
     <string name="support_address">mailto:support@cpeb.it</string>
     <string name="faq_address">https://cpeb.freshdesk.com</string>
-    <string name="could_not_get_debug_status">Konnte Debug-Status nicht ermitteln. Ist dein AAWireless-Gerät eingeschaltet?</string>
+    <string name="could_not_get_debug_status">Konnte Debug-Status nicht ermitteln. Ist dein AAWireless-Adapter eingeschaltet?</string>
     <string name="submit">Abschicken</string>
 
-    <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist dein AAWireless-Gerät eingeschaltet?</string>
-    <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist dein AAWireless-Gerät eingeschaltet?</string>
+    <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist dein AAWireless-Adapter eingeschaltet?</string>
+    <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist dein AAWireless-Adapter eingeschaltet?</string>
 
     <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Versuche es bitte noch einmal.</string>
     <string name="start_stop">Start/Stop</string>
@@ -175,14 +175,14 @@
     <string name="enable_wifi">Aktiviere WLAN</string>
     <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einblenden"</string>
 
-    <string name="already_a_device">Hast du schon ein AAWireless-Gerät? Dann lass uns loslegen!</string>
+    <string name="already_a_device">Besitzt du schon ein AAWireless-Adapter? Dann lass uns loslegen!</string>
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
     <string name="lets_start">Lass uns loslegen!</string>
     <string name="go_to_settings">Gehe zu den Einstellungen</string>
     <string name="welcome">Willkommen</string>
-    <string name="this_is_aawireless">zu der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
+    <string name="this_is_aawireless">in der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
     <string name="system_update">System-Aktualisierung</string>
     <string name="select_device">Geräteauswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
@@ -261,7 +261,7 @@
     <string name="usb_c_cable_desc">Manchmal werden Verbindungsabbrüche durch das USB-Kabel ausgelöst. Bitte verwende ein anderes USB-C Kabel und drücke auf Weiter.</string>
     <string name="does_it_work_title">Funktioniert es?</string>
     <string name="does_it_work_desc">Bitte USB-Stecker aus- und wieder einstecken. Android Auto sollte innerhalb einer Minute starten. Bitte vergewissere dich, dass Android Auto nun korrekt läuft.</string>
-    <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless-Gerät über Bluetooth.</string>
+    <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless-Adapter über Bluetooth.</string>
     <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth-Verbindung </string>
     <string name="clear_title">Cache und Speicher</string>
     <string name="clear_desc">Bitte drücke auf den unteren Button und lösche den Speicher von Android Auto unter \"Speicher und Cache\", drücke 2 Mal Zurück und dann unten auf \"Weiter\".</string>
@@ -272,7 +272,7 @@
     <string name="aa_working_title">Es funktioniert!</string>
     <string name="aa_working_desc">Wir freuen uns, dass du AAWireless erworben hast! Viel Spaß mit deinem Gerät! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
     <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
-    <string name="no_device_selected">Kein AAWireless-Gerät ausgewählt. Gehe zurück auf den Startbildschirm.</string>
-    <string name="reset_device_title">AAWireless-Gerät zurücksetzen</string>
-    <string name="reset_device_desc">Bitte setze dein AAWireless-Gerät zurück auf die Werkseinstellung, indem du auf Weiter drückst.</string>
+    <string name="no_device_selected">Kein AAWireless-Adapter ausgewählt. Gehe zurück auf den Startbildschirm.</string>
+    <string name="reset_device_title">AAWireless-Adapter zurücksetzen</string>
+    <string name="reset_device_desc">Bitte setze dein AAWireless-Adapter zurück auf die Werkseinstellung, indem du auf Weiter drückst.</string>
 </resources>
