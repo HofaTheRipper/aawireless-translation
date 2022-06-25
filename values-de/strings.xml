@@ -151,7 +151,7 @@
     <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist dein AAWireless-Gerät eingeschaltet?</string>
     <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist dein AAWireless-Gerät eingeschaltet?</string>
 
-    <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Versuch es bitte noch einmal.</string>
+    <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Versuche es bitte noch einmal.</string>
     <string name="start_stop">Start/Stop</string>
     <string name="start_stop_draw_over_other_apps">Um Start/Stop zu verwenden wird die Berechtigung "Über anderen Apps einblenden" benötigt.\n\nBitte suche nach AAWireless in den "Über anderen Apps einblendenn"-Einstellungen und erteile die Berechtigung.</string>
     <string name="start_stop_desc">Wenn dein Fahrzeug den USB-Anschluss nie stromlos schaltet, kannst du die automatische Verbindung abschalten und die Bluetooth-Verbindung des Fahrzeuges zum Starten/Stoppen der Android Auto-Verbindung verwenden.</string>
