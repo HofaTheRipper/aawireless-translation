@@ -3,7 +3,7 @@
     <string name="get_going">Lass uns loslegen!</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
-    <string name="connect_phone">Bitte starte das Infotainment-System des Fahrzeuges und verbinde dein Smartphone mit einem USB-Kabel.</string>
+    <string name="connect_phone">Bitte starte das Infotainment-System des Fahrzeuges und verbinde Smartphone und Fahrzeug mit einem USB-Kabel.</string>
     <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto-App aktiviert ist</string>
     <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit deinem AAWireless-Adapter</string>
 
@@ -117,7 +117,7 @@
 
     <string name="ota_metered_network">Aktuell wird eine Mobilfunk-Verbindung verwendet. Bist du sicher, dass du diese Aktualisierung jetzt herunterladen möchtest? Die Aktualisierung kann sofort oder auch später durchgeführt werden.</string>
 
-    <string name="wifi_client_desc">Der WLAN Client-Modus erlaubt es, einen Hotspot wie etwa einen fahrzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den Start/Stop Modus und den automatischen Verbindungsmodus. </string>
+    <string name="wifi_client_desc">Der WLAN Client-Modus erlaubt es, einen Hotspot wie etwa einen fahrzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den Start / Stop Modus und den automatischen Verbindungsmodus. </string>
     <string name="wifi_client_ssid">Client-SSID</string>
     <string name="wifi_client_ssid_desc">Bitte gebe den Client-Netzwerknamen ein</string>
     <string name="wifi_client_pass">Client-Passwort</string>
@@ -152,10 +152,10 @@
     <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist dein AAWireless-Adapter eingeschaltet?</string>
 
     <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Versuche es bitte noch einmal.</string>
-    <string name="start_stop">Start/Stop</string>
-    <string name="start_stop_draw_over_other_apps">Um Start/Stop zu verwenden wird die Berechtigung "Über anderen Apps einblenden" benötigt.\n\nBitte suche nach AAWireless in den "Über anderen Apps einblendenn"-Einstellungen und erteile die Berechtigung.</string>
+    <string name="start_stop">Start / Stop</string>
+    <string name="start_stop_draw_over_other_apps">Um Start / Stop zu verwenden wird die Berechtigung "Über anderen Apps einblenden" benötigt.\n\nBitte suche nach AAWireless in den "Über anderen Apps einblendenn"-Einstellungen und erteile die Berechtigung.</string>
     <string name="start_stop_desc">Wenn dein Fahrzeug den USB-Anschluss nie stromlos schaltet, kannst du die automatische Verbindung abschalten und die Bluetooth-Verbindung des Fahrzeuges zum Starten/Stoppen der Android Auto-Verbindung verwenden.</string>
-    <string name="enable_start_stop">Aktiviere Start/Stop</string>
+    <string name="enable_start_stop">Aktiviere Start / Stop</string>
     <string name="device_hfp_controlled">Gerät HFP-gesteuert (Experimentell)</string>
     <string name="device_usb_controlled">Gerät USB-gesteuert (Experimentell)</string>
     <string name="select_car_or_headunit">Wähle Fahrzeug / Headunit</string>
@@ -187,7 +187,7 @@
     <string name="select_device">Geräteauswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
     <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 ist in Kürze verfügbar.</string>
-    <string name="start_stop_not_available_desc">Start/Stop kann nicht zusammen mit dem WLAN Client Modus verwendet werden.</string>
+    <string name="start_stop_not_available_desc">Start / Stop kann nicht zusammen mit dem WLAN Client Modus verwendet werden.</string>
     <string name="menu_not_available">Menü nicht verfügbar</string>
     <string name="menu_not_available_desc">Dieses Menü ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 ist in Kürze verfügbar.</string>
     <string name="enabled">Aktiviert</string>
@@ -212,7 +212,7 @@
     <string name="unpair_phone">Entferne Smartphone</string>
     <string name="increase_priority">Priorität erhöhen</string>
     <string name="decrease_priority">Priorität verringern</string>
-    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start/Stop Modus oder Dongle Modus funktioniert die Smartphone-Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen, priorisiere bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System, falls möglich.</string>
+    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle Modus funktioniert die Smartphone-Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen, priorisiere bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System, falls möglich.</string>
 
     <string name="unstable_warning" translatable="false">Dies ist eine potenziell instabile Entwicklerversion der AAWireless App. Es können Fehler auftreten oder Funktionen könnten nicht richtig funktionieren. Wenn du eine stabile Version verwenden  möchtest, lösche den Firebase Account und lade die App aus dem Playstore.\n\nUm den Account zu löschen, wähle den \"Lösche Account\" Button. Logge dich mit deinem Google-Konto ein und drücke auf den \"Lösche Account\" Button auf der Webseite.</string>
     <string name="delete_account" translatable="false">Lösche Account</string>
