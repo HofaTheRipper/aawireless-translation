@@ -175,7 +175,7 @@
     <string name="enable_wifi">Aktiviere WLAN</string>
     <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einblenden"</string>
 
-    <string name="already_a_device">Besitzt du schon ein AAWireless-Adapter? Dann lass uns loslegen!</string>
+    <string name="already_a_device">Besitzt du schon einen AAWireless-Adapter? Dann lass uns loslegen!</string>
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
@@ -274,5 +274,5 @@
     <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
     <string name="no_device_selected">Kein AAWireless-Adapter ausgewählt. Gehe zurück auf den Startbildschirm.</string>
     <string name="reset_device_title">AAWireless-Adapter zurücksetzen</string>
-    <string name="reset_device_desc">Bitte setze dein AAWireless-Adapter zurück auf die Werkseinstellung, indem du auf Weiter drückst.</string>
+    <string name="reset_device_desc">Bitte setze deinen AAWireless-Adapter zurück auf die Werkseinstellung, indem du auf Weiter drückst.</string>
 </resources>
