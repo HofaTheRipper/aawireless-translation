@@ -3,7 +3,7 @@
     <string name="get_going">Lass uns loslegen!</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
-    <string name="connect_phone">Bitte starte das Fahrzeug und verbinde dein Smartphone mit einem USB Kabel.</string>
+    <string name="connect_phone">Bitte starte das Fahrzeug und verbinde dein Smartphone mit einem USB-Kabel.</string>
     <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto App aktiviert ist</string>
     <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde dein AAWireless-Gerät</string>
 
@@ -24,13 +24,13 @@
     <string name="next">Weiter</string>
     <string name="plugin">Einstecken</string>
     <string name="searching">Suche</string>
-    <string name="for_aawireless">nach AAWireless Gerät...</string>
-    <string name="device_found">Gerät gefunden</string>
+    <string name="for_aawireless">nach AAWireless-Gerät...</string>
+    <string name="device_found">AAWireless-Gerät gefunden</string>
     <string name="launching">Starte...</string>
     <string name="could_not_pair">Kopplung fehlgeschlagen</string>
     <string name="could_not_pair_desc">Kopplung fehlgeschlagen. Bitte starte das Gerät neu oder versuche, das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu koppeln.</string>
     <string name="bt_not_found">Nicht gefunden</string>
-    <string name="bt_not_found_desc">Ist dein Gerät eingeschaltet? Wenn ja, versuche das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu koppeln.</string>
+    <string name="bt_not_found_desc">Ist dein AAWireless-Gerät eingeschaltet? Wenn ja, versuche das Smartphone manuell mit AAWireless-*** oder AndroidAuto-AAW*** zu koppeln.</string>
     <string name="retry">Wiederholen</string>
     <string name="pairing">Kopplung...</string>
     <string name="cancel">Abbrechen</string>
@@ -46,11 +46,11 @@
 
     <!-- Preferences -->
     <string name="passthrough">Passthrough</string>
-    <string name="passthrough_desc">Wenn diese Option aktiviert ist, werden die Daten zwischen Smartphone und Fahrzeug direkt und ohne Modifikationen durchgeleitet. Dies könnte Kompatibilitätsprobleme mit manchen Fahrzeugen beheben, deaktiviert aber alle anderen Funktionen.</string>
+    <string name="passthrough_desc">Wenn diese Option aktiviert ist, werden die Daten zwischen Smartphone und Infotainment-System direkt und ohne Modifikationen durchgeleitet. Dies könnte Kompatibilitätsprobleme mit manchen Fahrzeugen beheben, deaktiviert aber alle anderen Funktionen.</string>
     <string name="vag_crash_fix">VAG Crash-Fix</string>
     <string name="vag_crash_fix_desc">Wenn diese Option aktiviert ist, wird ein Fehler bei VAG Technisat-Einheiten behoben, der zum Absturz oder Neustart beim Überspringen oder Pausieren von Musiktiteln führen kann. Bitte nicht bei anderen Geräten aktivieren, da es sonst zu Funktionsstörungen kommen kann.</string>
     <string name="usb_mode">USB-Modus</string>
-    <string name="usb_mode_desc">Wählt den Verbindungsmodus zwischen AAWireless und der Fahrzeug-Einheit. Dieser sollte beim ersten Verbinden automatisch erkannt werden, möglicherweise musst du aber die Option anpassen, um das Gerät im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
+    <string name="usb_mode_desc">Wählt den Verbindungsmodus zwischen AAWireless und dem Infotainment-System. Dieser sollte beim ersten Verbinden automatisch erkannt werden, möglicherweise musst du aber die Option anpassen, um AAWireless im mehreren verschiedenen Fahrzeugen einzusetzen.</string>
     <string name="wifisetting">WLAN-Optionen</string>
     <string name="dpi">Ändere DPI</string>
     <string name="dpi_desc">Setze den Wert auf 0 um den Fahrzeug-Standard zu verwenden</string>
@@ -61,14 +61,14 @@
     <string name="tts_sink">Deaktiviere "TTS-Sink"</string>
     <string name="tts_sink_desc">Wenn diese Option aktiviert ist, kannst du die Navigations-Ansagen und Benachrichtigungen über einen anderen Bluetooth-Empfänger wiedergeben</string>
     <string name="auto_video_focus">Automatischer Video-Fokus</string>
-    <string name="auto_video_focus_desc">Wenn diese Option aktiviert ist, wird Android Auto direkt nach dem Start des Fahrzeuges angezeigt. Ein manuelle Auswahl auf der Geräteeinheit ist nicht erforderlich. Dies funktioniert nicht bei allen Fahrzeugen.</string>
+    <string name="auto_video_focus_desc">Wenn diese Option aktiviert ist, wird Android Auto direkt nach dem Start angezeigt. Ein manuelle Auswahl auf dem Infotainment-System ist nicht erforderlich. Dies funktioniert nicht bei allen Fahrzeugen.</string>
     <string name="wifi_connect_timeout">WLAN-Timeout</string>
     <string name="wifi_connect_timeout_desc">Ändere diesen Wert, wenn die Verbindung zum Gerät zu lange dauert. Die Zeit wird in Millisekunden eingegeben.</string>
     <string name="prefer_last_connected_phone">Bevorzuge zuletzt verbundenes Smartphone</string>
     <string name="developerMode">Entwickler-Modus</string>
     <string name="developerMode_desc">Aktiviere dies nur für App-Entwicklungszwecke.</string>
     <string name="dongle_mode">Dongle-Modus</string>
-    <string name="dongle_mode_desc">Der Dongle-Modus bewirkt, dass AAWireless die native Dongle-Logik von Android Auto verwendet. Dies kann Bluetooth-Verbindungsprobleme beheben. Bevor AAWireless im Dongle-Modus betrieben wird, verbinde bitte dein Smartphone über ein USB-Kabel mit dem Fahrzeug. Während die Android Auto Verbindung auf dem Fahrzeugbildschirm aktiv ist, trenne das Smartphone und verbinde dein AAwireless-Gerät mit dem gleichen USB-Anschluss.</string>
+    <string name="dongle_mode_desc">Der Dongle-Modus bewirkt, dass AAWireless die native Dongle-Logik von Android Auto verwendet. Dies kann Bluetooth-Verbindungsprobleme beheben. Bevor AAWireless im Dongle-Modus betrieben wird, verbinde bitte dein Smartphone über ein USB-Kabel mit dem Fahrzeug. Während die Android Auto Verbindung auf dem Infotainment-System des Fahrzeuges aktiv ist, trenne das Smartphone und verbinde dein AAwireless-Gerät mit dem gleichen USB-Anschluss.</string>
     <string name="factory_reset">Zurücksetzen auf Werkseinstellung</string>
     <string name="factory_reset_confirm">Bist du sicher, dass du das Gerät auf die Werkseinstellung zurücksetzen möchtest?</string>
     <string name="save">Speichern</string>
@@ -113,18 +113,18 @@
     <string name="notification">Benachrichtigung</string>
     <string name="changelog">Änderungen</string>
     <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
-    <string name="disable_vpn">Wenn du eine VPN-Verbindung nutzt, deaktiviere bitte die VPN-Verbindung oder setze die AAWireless App zu den Ausnahmen hinzu, bevor du die Aktualisierung startest.</string>
+    <string name="disable_vpn">Wenn du eine VPN-Verbindung nutzt, deaktiviere bitte die VPN-Verbindung oder füge die AAWireless-App zu den Ausnahmen hinzu, bevor du die Aktualisierung startest.</string>
 
-    <string name="ota_metered_network">Du verwendest eine Mobilfunk-Verbindung. Bist du sicher, dass du diese Aktualisierung jetzt herunterladen möchtest? Die Aktualisierung kann sofort oder auch später durchgeführt werden.</string>
+    <string name="ota_metered_network">Aktuell wird eine Mobilfunk-Verbindung verwendet. Bist du sicher, dass du diese Aktualisierung jetzt herunterladen möchtest? Die Aktualisierung kann sofort oder auch später durchgeführt werden.</string>
 
-    <string name="wifi_client_desc">Der WLAN Client Modus erlaubt es, einen Hotspot wie etwa einen fahrzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den Start/Stop Modus und den automatischen Verbindungsmodus. </string>
+    <string name="wifi_client_desc">Der WLAN Client-Modus erlaubt es, einen Hotspot wie etwa einen fahrzeugspezifischen Hotspot zu verweden. Dieser Modus deaktiviert den Start/Stop Modus und den automatischen Verbindungsmodus. </string>
     <string name="wifi_client_ssid">Client-SSID</string>
     <string name="wifi_client_ssid_desc">Bitte gebe den Client-Netzwerknamen ein</string>
     <string name="wifi_client_pass">Client-Passwort</string>
     <string name="wifi_client_pass_desc">Bitte gebe das Client-Netzwerkpasswort ein</string>
     <string name="wifi_channel">WLAN Kanal</string>
     <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
-    <string name="country_setting_desc">Wähle dein Land, um die dort geltenden WLAN-Vorgaben zu aktivieren. Der Anwender ist für die korrekte Einstellung verantwortlich. Nach dem Wechsel des Landes wird das Gerät neu gestartet.</string>
+    <string name="country_setting_desc">Wähle dein Land, um die dort geltenden WLAN-Vorgaben zu aktivieren. Der Anwender ist für die korrekte Einstellung verantwortlich! Nach dem Wechsel des Landes wird das Gerät neu gestartet.</string>
     <string name="country">Land</string>
     <string name="country_desc">Wähle das entsprechende Land aus</string>
     <string name="requires_v2">Einige der Optionen benötigen Firmware 2.0.0 oder höher.</string>
@@ -145,16 +145,16 @@
     <string name="support_request_for">Supportanfrage für %s</string>
     <string name="support_address">mailto:support@cpeb.it</string>
     <string name="faq_address">https://cpeb.freshdesk.com</string>
-    <string name="could_not_get_debug_status">Konnte Debug-Status nicht ermitteln. Ist dein AAWireless Gerät eingeschaltet?</string>
+    <string name="could_not_get_debug_status">Konnte Debug-Status nicht ermitteln. Ist dein AAWireless-Gerät eingeschaltet?</string>
     <string name="submit">Abschicken</string>
 
-    <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist dein Gerät eingeschaltet?</string>
-    <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist dein Gerät eingeschaltet?</string>
+    <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist dein AAWireless-Gerät eingeschaltet?</string>
+    <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist dein AAWireless-Gerät eingeschaltet?</string>
 
     <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Versuch es bitte noch einmal.</string>
     <string name="start_stop">Start/Stop</string>
-    <string name="start_stop_draw_over_other_apps">Um Start/Stop zu verwenden wird die Berechtigung "Über anderen Apps einblenden" benötigt.\n\nBitte suche nach AAWireless in den "Über anderen Apps einblendenn" Einstellungen und erteile die Berechtigung.</string>
-    <string name="start_stop_desc">Wenn dein Fahrzeug den USB-Anschluss nie stromlos schaltet, kannst du die automatische Verbindung abschalten und die Fahrzeug Bluetooth-Verbindung zum Starten/Stoppen der Android Auto-Verbindung zu verwenden.</string>
+    <string name="start_stop_draw_over_other_apps">Um Start/Stop zu verwenden wird die Berechtigung "Über anderen Apps einblenden" benötigt.\n\nBitte suche nach AAWireless in den "Über anderen Apps einblendenn"-Einstellungen und erteile die Berechtigung.</string>
+    <string name="start_stop_desc">Wenn dein Fahrzeug den USB-Anschluss nie stromlos schaltet, kannst du die automatische Verbindung abschalten und die Bluetooth-Verbindung des Fahrzeuges zum Starten/Stoppen der Android Auto-Verbindung verwenden.</string>
     <string name="enable_start_stop">Aktiviere Start/Stop</string>
     <string name="device_hfp_controlled">Gerät HFP-gesteuert (Experimentell)</string>
     <string name="device_usb_controlled">Gerät USB-gesteuert (Experimentell)</string>
@@ -175,14 +175,14 @@
     <string name="enable_wifi">Aktiviere WLAN</string>
     <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einblenden"</string>
 
-    <string name="already_a_device">Hast du schon ein AAWireless Gerät? Dann lass uns loslegen!</string>
+    <string name="already_a_device">Hast du schon ein AAWireless-Gerät? Dann lass uns loslegen!</string>
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
     <string name="lets_start">Lass uns loslegen!</string>
     <string name="go_to_settings">Gehe zu den Einstellungen</string>
     <string name="welcome">Willkommen</string>
-    <string name="this_is_aawireless">Zu der Begleit-App von AAWireless, dem allerersten Android Auto Wireless Adapter.</string>
+    <string name="this_is_aawireless">zu der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
     <string name="system_update">System-Aktualisierung</string>
     <string name="select_device">Geräteauswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
@@ -212,7 +212,7 @@
     <string name="unpair_phone">Entferne Smartphone</string>
     <string name="increase_priority">Priorität erhöhen</string>
     <string name="decrease_priority">Priorität verringern</string>
-    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start/Stop Modus oder Dongle Modus funktioniert die Smartphone-Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen, priorisiere bitte die Smartphone Handsfree-Verbindungen bei deiner Geräteeinheit, falls möglich.</string>
+    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start/Stop Modus oder Dongle Modus funktioniert die Smartphone-Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen, priorisiere bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System, falls möglich.</string>
 
     <string name="unstable_warning" translatable="false">Dies ist eine potenziell instabile Entwicklerversion der AAWireless App. Es können Fehler auftreten oder Funktionen könnten nicht richtig funktionieren. Wenn du eine stabile Version verwenden  möchtest, lösche den Firebase Account und lade die App aus dem Playstore.\n\nUm den Account zu löschen, wähle den \"Lösche Account\" Button. Logge dich mit deinem Google-Konto ein und drücke auf den \"Lösche Account\" Button auf der Webseite.</string>
     <string name="delete_account" translatable="false">Lösche Account</string>
@@ -245,13 +245,13 @@
     <string name="contact_support">Kontaktiere den Support</string>
     <string name="other_issue">Andere Probleme</string>
     <string name="change_bandwidth_title">WLAN 2.4 GHz</string>
-    <string name="change_bandwidth_desc">Dein Smartphone könnte nur 2.4 GHz WLAN unterstüzen. Bitte benutze den Button um das Gerät auf 2.4 GHz WLAN einzustellen.</string>
+    <string name="change_bandwidth_desc">Dein Smartphone unterstützt möglicherweise nur 2.4 GHz WLAN. Bitte benutze den Button um das Gerät auf 2.4 GHz WLAN einzustellen.</string>
     <string name="contact_support_title">Kontaktiere den Support</string>
     <string name="contact_support_desc">Kontaktiere den Support für weitere Anweisungen.</string>
     <string name="does_not_work_over_usb_title">Kabelverbindung</string>
-    <string name="does_not_work_over_usb_desc">Funktioniert Android Auto wie gewünscht über eine USB Kabelverbindung?</string>
-    <string name="is_wifi_visible_desc">Bitte drücke auf den unteren Button, um die WLAN Einstellungen zu öffnen. Ist eine Verbindung mit dem Namen \"AAWireless-xxxxxx\" oder \"AndroidAuto-AAWxxxxx\" vorhanden?</string>
-    <string name="is_wifi_visible_desc2">Ist es vorhanden?</string>
+    <string name="does_not_work_over_usb_desc">Funktioniert Android Auto wie gewünscht über eine USB-Kabelverbindung?</string>
+    <string name="is_wifi_visible_desc">Bitte drücke auf den unteren Button, um die WLAN-Einstellungen zu öffnen. Ist eine Verbindung mit dem Namen \"AAWireless-xxxxxx\" oder \"AndroidAuto-AAWxxxxx\" vorhanden?</string>
+    <string name="is_wifi_visible_desc2">Ist die WLAN-Verbindung vorhanden?</string>
     <string name="yes">Ja</string>
     <string name="one_button">Weiter</string>
     <string name="service_reset">Öffne die Google Play Dienste Einstellungen</string>
@@ -261,8 +261,8 @@
     <string name="usb_c_cable_desc">Manchmal werden Verbindungsabbrüche durch das USB-Kabel ausgelöst. Bitte verwende ein anderes USB-C Kabel und drücke auf Weiter.</string>
     <string name="does_it_work_title">Funktioniert es?</string>
     <string name="does_it_work_desc">Bitte USB-Stecker aus- und wieder einstecken. Android Auto sollte innerhalb einer Minute starten. Bitte vergewissere dich, dass Android Auto nun korrekt läuft.</string>
-    <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless Gerät über Bluetooth.</string>
-    <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth Verbindung </string>
+    <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless-Gerät über Bluetooth.</string>
+    <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth-Verbindung </string>
     <string name="clear_title">Cache und Speicher</string>
     <string name="clear_desc">Bitte drücke auf den unteren Button und lösche den Speicher von Android Auto unter \"Speicher und Cache\", drücke 2 Mal Zurück und dann unten auf \"Weiter\".</string>
     <string name="set_usb_mode_desc">Bitte drücke auf den Button unten und setze den USB-Modus auf MTP.</string>
@@ -270,9 +270,9 @@
     <string name="enable_passthrough_desc">Bitte aktiviere den Passthrough-Modus, indem du auf den unteren Button drückst.</string>
     <string name="enter_problem_description">Bitte gebe eine Fehlerbeschreibung an:</string>
     <string name="aa_working_title">Es funktioniert!</string>
-    <string name="aa_working_desc">Prima, dass du AAWireless zum laufen gebracht hast! Viel Spaß mit deinem Gerät! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
+    <string name="aa_working_desc">Wir freuen uns, dass du AAWireless erworben hast! Viel Spaß mit deinem Gerät! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
     <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
-    <string name="no_device_selected">Kein Gerät ausgewählt. Gehe zurück auf den Startbildschirm.</string>
-    <string name="reset_device_title">Gerät zurücksetzen</string>
-    <string name="reset_device_desc">Bitte setze dein Gerät zurück auf die Werkseinstellungen, indem du auf Weiter drückst.</string>
+    <string name="no_device_selected">Kein AAWireless-Gerät ausgewählt. Gehe zurück auf den Startbildschirm.</string>
+    <string name="reset_device_title">AAWireless-Gerät zurücksetzen</string>
+    <string name="reset_device_desc">Bitte setze dein AAWireless-Gerät zurück auf die Werkseinstellung, indem du auf Weiter drückst.</string>
 </resources>
