@@ -5,7 +5,7 @@
     <string name="start">Start</string>
     <string name="connect_phone">Bitte starte das Infotainment-System des Fahrzeuges und verbinde dein Smartphone mit einem USB-Kabel.</string>
     <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto-App aktiviert ist</string>
-    <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit dem AAWireless-Adapter</string>
+    <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit deinem AAWireless-Adapter</string>
 
     <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, kann diese Option in den Entwicklereinstellungen aktiviert werden. Bitte führe folgende Schritte durch:
         \n
