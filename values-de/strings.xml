@@ -1,13 +1,13 @@
 <resources>
     <string name="aawireless" translatable="false">AAWireless</string>
-    <string name="get_going">Lass uns loslegen!</string>
+    <string name="get_going">Los geht's!</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
     <string name="connect_phone">Bitte starte das Infotainment-System des Fahrzeuges und verbinde Smartphone und Fahrzeug mit einem USB-Kabel.</string>
     <string name="to_begin">Um mit der Einrichtung zu beginnen, vergewissere dich, dass die kabellose Projektion innerhalb der Android Auto-App aktiviert ist</string>
     <string name="plug_in_aaw">Trenne die USB-Verbindung des Smartphones und verbinde das Kabel nun mit deinem AAWireless-Adapter</string>
 
-    <string name="if_not">Wenn die \"Kabellose Projektion\" Option nicht sichtbar ist, kann diese Option in den Entwicklereinstellungen aktiviert werden. Bitte führe folgende Schritte durch:
+    <string name="if_not">Falls die \"Kabellose Projektion\" Option nicht sichtbar ist, kann diese Option in den Entwicklereinstellungen aktiviert werden. Bitte führe folgende Schritte durch:
         \n
         \nÖffne die Android Auto Einstellungen und tippe 10 Mal hintereinander auf das untere Versionsfeld.
         \nBestätige, dass du die Entwicklereinstellungen aktivieren möchtest.
@@ -187,7 +187,7 @@
     <string name="select_device">Geräteauswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
     <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 ist in Kürze verfügbar.</string>
-    <string name="start_stop_not_available_desc">Start / Stop kann nicht zusammen mit dem WLAN Client Modus verwendet werden.</string>
+    <string name="start_stop_not_available_desc">Start / Stop kann nicht zusammen mit dem WLAN Client-Modus verwendet werden.</string>
     <string name="menu_not_available">Menü nicht verfügbar</string>
     <string name="menu_not_available_desc">Dieses Menü ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 ist in Kürze verfügbar.</string>
     <string name="enabled">Aktiviert</string>
