@@ -192,7 +192,7 @@
     <string name="menu_not_available_desc">Dieses Menü ist nur mit der Firmware 2.0.0 oder höher verfügbar. Firmware 2.0.0 ist in Kürze verfügbar.</string>
     <string name="enabled">Aktiviert</string>
     <string name="disabled">Deaktiviert</string>
-    <string name="could_not_change_debug_mode">Konnte den Debug-Modus nicht aktivieren</string>
+    <string name="could_not_change_debug_mode">Debug-Modus konnte nicht aktiviert werden</string>
     <string name="could_not_get_device_information">Geräteinformationen konnten nicht geladen werden. Ist das Gerät eingeschaltet?</string>
     <string name="could_not_send_bug_report">Fehlerbericht konnte nicht gesendet werden.</string>
     <string name="bluetooth_permission">Um die App zu verwenden wird der Bluetooth-Zugriff benötigt. Bitte Berechtigung erteilen.</string>
