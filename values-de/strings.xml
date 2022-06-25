@@ -269,8 +269,8 @@
     <string name="enable_passthrough_title">Aktiviere Passthrough</string>
     <string name="enable_passthrough_desc">Bitte aktiviere den Passthrough-Modus, indem du auf den unteren Button drückst.</string>
     <string name="enter_problem_description">Bitte gebe eine Fehlerbeschreibung an:</string>
-    <string name="aa_working_title">Es funktioniert!</string>
-    <string name="aa_working_desc">Wir freuen uns, dass du AAWireless erworben hast! Viel Spaß mit deinem Gerät! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
+    <string name="aa_working_title">Einrichtung erfolgreich!</string>
+    <string name="aa_working_desc">Wir freuen uns, dass du AAWireless erworben hast! Viel Spaß mit deinem Adapter! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
     <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
     <string name="no_device_selected">Kein AAWireless-Adapter ausgewählt. Gehe zurück auf den Startbildschirm.</string>
     <string name="reset_device_title">AAWireless-Adapter zurücksetzen</string>
