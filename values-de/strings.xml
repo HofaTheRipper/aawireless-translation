@@ -134,9 +134,9 @@
     <string name="start_debug_mode">Starte Debug-Modus</string>
     <string name="stop_debug_mode">Stoppe Debug-Modus und erstelle Fehlerbericht</string>
     <string name="send_mail">Sende E-Mail</string>
-    <string name="bug_report_nag">Bitte erstelle nur dann einen Fehlerbericht, wenn der Support danach fragt. Fehlerberichte ohne Support Ticket werden nicht bearbeitet.</string>
+    <string name="bug_report_nag">Bitte erstelle nur dann einen Fehlerbericht, wenn der Support danach fragt. Fehlerberichte ohne Support-Ticket werden nicht bearbeitet.</string>
     <string name="bug_report">Fehlerbericht</string>
-    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen, wähle den Button "Starte Debug Modus". Nachdem das Problem aufgetreten ist, wähle den Button "Stoppe Debug Modus". Nachdem der Fehlerbericht erstellt wurde, wird ein neues Fenster geöffnet. Hier kannst du den Fehlerbericht senden. Bitte nur verwenden, wenn der Support dannach fragt.</string>
+    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen, wähle "Starte Debug-Modus". Nachdem das Problem aufgetreten ist, wähle "Stoppe Debug-Modus". Nachdem der Fehlerbericht erstellt wurde, wird ein neues Fenster geöffnet. Hier kannst du den Fehlerbericht senden. Bitte nur verwenden, wenn der Support dannach fragt.</string>
     <string name="downloading_log">Log herunterladen</string>
     <string name="download_log_failed">Herunterladen des Logs fehlgeschlagen</string>
     <string name="log_download_notification_channel_name">Fehlerbericht</string>
@@ -230,7 +230,7 @@
     <!-- Troubleshooting -->
     <string name="troubleshooting">Fehlerbehebung</string>
     <string name="led_color_title">LED Farbe?</string>
-    <string name="led_color_desc">Könntest du bitte die Farbe der LED prüfen?</string>
+    <string name="led_color_desc">Welche Farbe hat die Geräte-LED?</string>
     <string name="led_blinking_green">Grün blinkend</string>
     <string name="no_blinking_green">Nein, die LED blinkt grün</string>
     <string name="led_blinking_blue">Blau blinkend</string>
