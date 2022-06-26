@@ -55,7 +55,7 @@
     <string name="dpi">Ändere DPI</string>
     <string name="dpi_desc">Setze den Wert auf 0 um den Fahrzeug-Standard zu verwenden</string>
     <string name="remove_tap">Click-Limit aus</string>
-    <string name="remove_tap_desc">Wenn diese Option aktiviert ist, wird die maximal erlaubte Anzahl von 6 aufeinander folgende Bildschirm-Clicks deaktiviert. Warnung! Dies kann zu ungenauen oder verzögerten GPS Daten führen.</string>
+    <string name="remove_tap_desc">Wenn diese Option aktiviert ist, wird das Limit von 6 aufeinander folgende Bildschirm-Clicks deaktiviert. Warnung! Dies kann zu ungenauen oder verzögerten GPS Daten führen.</string>
     <string name="media_sink">Deaktiviere "Media-Sink"</string>
     <string name="media_sink_desc">Wenn diese Option aktiviert ist, kannst du deine Medien über einen anderen Bluetooth-Empfänger wiedergeben</string>
     <string name="tts_sink">Deaktiviere "TTS-Sink"</string>
@@ -136,7 +136,7 @@
     <string name="send_mail">Sende E-Mail</string>
     <string name="bug_report_nag">Bitte erstelle nur dann einen Fehlerbericht, wenn der Support danach fragt. Fehlerberichte ohne Support Ticket werden nicht bearbeitet.</string>
     <string name="bug_report">Fehlerbericht</string>
-    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen, drücke auf Button "Starte Debug Modus". Nachdem das Problem aufgetreten ist, drücke den Button "Stoppe Debug Modus". Nachdem der Fehlerbericht erstellt wurde, wird ein neues Fenster geöffnet. Hier kannst du den Fehlerbericht senden. Bitte nur verwenden, wenn der Support dannach fragt.</string>
+    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen, wähle den Button "Starte Debug Modus". Nachdem das Problem aufgetreten ist, wähle den Button "Stoppe Debug Modus". Nachdem der Fehlerbericht erstellt wurde, wird ein neues Fenster geöffnet. Hier kannst du den Fehlerbericht senden. Bitte nur verwenden, wenn der Support dannach fragt.</string>
     <string name="downloading_log">Log herunterladen</string>
     <string name="download_log_failed">Herunterladen des Logs fehlgeschlagen</string>
     <string name="log_download_notification_channel_name">Fehlerbericht</string>
@@ -179,8 +179,8 @@
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
-    <string name="lets_start">Lass uns loslegen!</string>
-    <string name="go_to_settings">Gehe zu den Einstellungen</string>
+    <string name="lets_start">Los geht's!</string>
+    <string name="go_to_settings">Öffne die Einstellungen</string>
     <string name="welcome">Willkommen</string>
     <string name="this_is_aawireless">in der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
     <string name="system_update">System-Aktualisierung</string>
@@ -212,7 +212,7 @@
     <string name="unpair_phone">Entferne Smartphone</string>
     <string name="increase_priority">Priorität erhöhen</string>
     <string name="decrease_priority">Priorität verringern</string>
-    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle Modus funktioniert die Smartphone-Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen, priorisiere bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System, falls möglich.</string>
+    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle-Modus funktioniert die Smartphone-Priorisierung nicht. Um es mit einer der beiden Modi zu nutzen, priorisiere bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System, falls möglich.</string>
 
     <string name="unstable_warning" translatable="false">Dies ist eine potenziell instabile Entwicklerversion der AAWireless App. Es können Fehler auftreten oder Funktionen könnten nicht richtig funktionieren. Wenn du eine stabile Version verwenden  möchtest, lösche den Firebase Account und lade die App aus dem Playstore.\n\nUm den Account zu löschen, wähle den \"Lösche Account\" Button. Logge dich mit deinem Google-Konto ein und drücke auf den \"Lösche Account\" Button auf der Webseite.</string>
     <string name="delete_account" translatable="false">Lösche Account</string>
@@ -232,16 +232,16 @@
     <string name="led_color_title">LED Farbe?</string>
     <string name="led_color_desc">Könntest du bitte die Farbe der LED prüfen?</string>
     <string name="led_blinking_green">Grün blinkend</string>
-    <string name="no_blinking_green">Nein, es blinkt grün</string>
+    <string name="no_blinking_green">Nein, die LED blinkt grün</string>
     <string name="led_blinking_blue">Blau blinkend</string>
-    <string name="no_blinking_blue">Nein, es blinkt blau</string>
+    <string name="no_blinking_blue">Nein, die LED blinkt blau</string>
     <string name="led_solid_blue">Blau leuchtend</string>
-    <string name="no_solid_blue">Nein, es leuchtet blau</string>
+    <string name="no_solid_blue">Nein, die LED leuchtet blau</string>
     <string name="led_solid_green">Grün leuchtend</string>
     <string name="led_solid_white">Weiß leuchtend</string>
     <string name="is_wifi_visible_title">Ist WLAN sichtbar?</string>
     <string name="wireless_projection_auto_title">Kabellose Projektion</string>
-    <string name="wireless_projection_auto_desc">Bitte stelle sicher, dass die kabellose Projektion aktiviert ist, wie unten beschrieben. Dannach drücke bitte den \"Weiter\" Button.</string>
+    <string name="wireless_projection_auto_desc">Bitte stelle sicher, dass die kabellose Projektion aktiviert ist, wie unten beschrieben. Dannach wähle bitte den \"Weiter\" Button.</string>
     <string name="contact_support">Kontaktiere den Support</string>
     <string name="other_issue">Andere Probleme</string>
     <string name="change_bandwidth_title">WLAN 2.4 GHz</string>
@@ -250,7 +250,7 @@
     <string name="contact_support_desc">Kontaktiere den Support für weitere Anweisungen.</string>
     <string name="does_not_work_over_usb_title">Kabelverbindung</string>
     <string name="does_not_work_over_usb_desc">Funktioniert Android Auto wie gewünscht über eine USB-Kabelverbindung?</string>
-    <string name="is_wifi_visible_desc">Bitte drücke auf den unteren Button, um die WLAN-Einstellungen zu öffnen. Ist eine Verbindung mit dem Namen \"AAWireless-xxxxxx\" oder \"AndroidAuto-AAWxxxxx\" vorhanden?</string>
+    <string name="is_wifi_visible_desc">Bitte wähle den unteren Button, um die WLAN-Einstellungen zu öffnen. Ist eine Verbindung mit dem Namen \"AAWireless-xxxxxx\" oder \"AndroidAuto-AAWxxxxx\" vorhanden?</string>
     <string name="is_wifi_visible_desc2">Ist die WLAN-Verbindung vorhanden?</string>
     <string name="yes">Ja</string>
     <string name="one_button">Weiter</string>
@@ -258,21 +258,21 @@
     <string name="aa_reset">Öffne die Android Auto Einstellungen</string>
     <string name="no">Nein</string>
     <string name="usb_c_cable_title">USB-C Kabel</string>
-    <string name="usb_c_cable_desc">Manchmal werden Verbindungsabbrüche durch das USB-Kabel ausgelöst. Bitte verwende ein anderes USB-C Kabel und drücke auf Weiter.</string>
+    <string name="usb_c_cable_desc">Manchmal werden Verbindungsabbrüche durch das USB-Kabel ausgelöst. Bitte verwende ein anderes USB-C Kabel und wähle \"Weiter\".</string>
     <string name="does_it_work_title">Funktioniert es?</string>
     <string name="does_it_work_desc">Bitte USB-Stecker aus- und wieder einstecken. Android Auto sollte innerhalb einer Minute starten. Bitte vergewissere dich, dass Android Auto nun korrekt läuft.</string>
     <string name="does_it_have_a_bluetooth_connection_desc">Bitte verbinde dich manuell mit deinem AAWireless-Adapter über Bluetooth.</string>
     <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth-Verbindung </string>
     <string name="clear_title">Cache und Speicher</string>
-    <string name="clear_desc">Bitte drücke auf den unteren Button und lösche den Speicher von Android Auto unter \"Speicher und Cache\", drücke 2 Mal Zurück und dann unten auf \"Weiter\".</string>
-    <string name="set_usb_mode_desc">Bitte drücke auf den Button unten und setze den USB-Modus auf MTP.</string>
+    <string name="clear_desc">Bitte wähle den unteren Button und lösche den Speicher von Android Auto unter \"Speicher und Cache\", springe 2 Mal zurück und dann unten auf \"Weiter\".</string>
+    <string name="set_usb_mode_desc">Bitte wähle den unteren Button und setze den USB-Modus auf MTP.</string>
     <string name="enable_passthrough_title">Aktiviere Passthrough</string>
-    <string name="enable_passthrough_desc">Bitte aktiviere den Passthrough-Modus, indem du auf den unteren Button drückst.</string>
+    <string name="enable_passthrough_desc">Bitte aktiviere den Passthrough-Modus, indem du den unteren Button wählst.</string>
     <string name="enter_problem_description">Bitte gebe eine Fehlerbeschreibung an:</string>
     <string name="aa_working_title">Einrichtung erfolgreich!</string>
-    <string name="aa_working_desc">Wir freuen uns, dass du AAWireless erworben hast! Viel Spaß mit deinem Adapter! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
+    <string name="aa_working_desc">Wir freuen uns, dass du dich für AAWireless entschieden hast! Viel Spaß mit deinem Adapter! Wenn du weitere Hilfe benötigst, benutze bitte den Button unten, um den Support zu kontaktieren.</string>
     <string name="close_troubleshooting">Schließe Fehlerbehebung</string>
     <string name="no_device_selected">Kein AAWireless-Adapter ausgewählt. Gehe zurück auf den Startbildschirm.</string>
     <string name="reset_device_title">AAWireless-Adapter zurücksetzen</string>
-    <string name="reset_device_desc">Bitte setze deinen AAWireless-Adapter zurück auf die Werkseinstellung, indem du auf Weiter drückst.</string>
+    <string name="reset_device_desc">Bitte setze deinen AAWireless-Adapter zurück auf die Werkseinstellung, indem du \"Weiter\" wählst.</string>
 </resources>
