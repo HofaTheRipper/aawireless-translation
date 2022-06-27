@@ -1,0 +1,278 @@
+<resources>
+    <string name="aawireless" translatable="false">AAWireless</string>
+    <string name="get_going">讓我們開始吧</string>
+    <string name="step">步驟 %1$d / %2$d</string>
+    <string name="start">開始</string>
+    <string name="connect_phone">請發動車輛並使用USB連接線將手機與車輛進行連線及配對.</string>
+    <string name="to_begin">要繼續設定您的裝置, 請確認Android Auto中的 \"無線Android Auto\" 功能已經開啟</string>
+    <string name="plug_in_aaw">將手機的連線拔除, 並將AAWireless與車輛連接</string>
+
+    <string name="if_not">如果看不到 \"無線Android Auto\", 則需要進入 開發人員設定模式 開啟此選項, 請執行下列步驟:
+        \n
+        \n於Android Auto設定頁最下方, 於版本處連續點選10次.
+        \n確認您要啟用 開發人員設定 模式.
+        \n點選右上角選單鍵,選取 \"開發人員設定\" 將 \"在設定中加入無線投影功能\" 啟動
+        \n
+        \n<p>請參考下圖:</p>
+</string>
+    <string name="start_setup">開始設定</string>
+    <string name="open_aa_settings">開啟 Android Auto 設定</string>
+    <string name="open_bluetooth_settings">開啟 藍芽 設定</string>
+    <string name="open_wifi_settings">開啟 Wi-Fi 設定</string>
+    <string name="open_troubleshooting">開啟 問題排除</string>
+    <string name="could_not_open_aa_settings">無法開啟 Android Auto 設定, 有安裝Android Auto嗎?</string>
+    <string name="next">下一步</string>
+    <string name="plugin">連線</string>
+    <string name="searching">搜尋中</string>
+    <string name="for_aawireless">正在尋找您的 AAWireless...</string>
+    <string name="device_found">找到了</string>
+    <string name="launching">啟動中...</string>
+    <string name="could_not_pair">無法配對</string>
+    <string name="could_not_pair_desc">無法配對, 請重新啟動您的裝置或手動與 AAWireless-*** 或 AndroidAuto-AAW*** 配對</string>
+    <string name="bt_not_found">找不到裝置</string>
+    <string name="bt_not_found_desc">您的裝置有通電嗎? 如果有, 請嘗試手動與 AAWireless-*** 或 AndroidAuto-AAW*** 配對</string>
+    <string name="retry">重試</string>
+    <string name="pairing">配對中...</string>
+    <string name="cancel">許敲</string>
+    <string name="download_now">現在下載</string>
+    <string name="download_later">稍後下載</string>
+    <string name="warning">警告</string>
+    <string name="error_min_length">字數必須大於 %d 字</string>
+    <string name="error_max_length">字數必須小於 %d 字</string>
+    <string name="enable">啟用</string>
+    <string name="disable">停用</string>
+    <string name="enable_bluetooth">開啟藍芽</string>
+    <string name="please_enable_bluetooth">使用此APP, 需開啟藍芽.</string>
+
+    <!-- Preferences -->
+    <string name="passthrough">直通模式</string>
+    <string name="passthrough_desc">直通模式啟動時, AAWireless 資料會直接在車輛與手機間傳輸而不會被改寫. 可能對相容性有幫助, 但同時無法使用其他設定.</string>
+    <string name="vag_crash_fix">VAG 防當機模式</string>
+    <string name="vag_crash_fix_desc">此模式可以避免VAG車機中的一個問題 - 當在音樂APP中選取或是暫停撥放歌曲時, 車機可能會當機或是重開. 請勿在非VAG車輛中使用此功能, 可能會造成不可預測的狀況.</string>
+    <string name="usb_mode">USB 模式</string>
+    <string name="usb_mode_desc">更改此裝置如何連線到車輛. 第一次連線時系統會自己偵測後選擇模式, 如果你在不同的車輛使用此裝置, 你也許需要改變這個設定.</string>
+    <string name="wifisetting">WiFi 設定</string>
+    <string name="dpi">更改解析度 (DPI)</string>
+    <string name="dpi_desc">設定值為0則使用車輛預設值</string>
+    <string name="remove_tap">解除連續觸控限制</string>
+    <string name="remove_tap_desc">啟用時, 可連續操作觸控螢幕超過六次. 警告: 此功能可能會造成GPS定位錯誤或延遲.</string>
+    <string name="media_sink">停用音樂接收器</string>
+    <string name="media_sink_desc">啟用時, 系統允許音樂由不同的藍芽接收器撥放.</string>
+    <string name="tts_sink">停用語音接收器</string>
+    <string name="tts_sink_desc">啟用時, 系統允許語音由不同的藍芽接收器撥放.</string>
+    <string name="auto_video_focus">自動載入</string>
+    <string name="auto_video_focus_desc">啟用時, Android Auto將於連線後自動載入而不需要在螢幕中點選. 部分車機不適用.</string>
+    <string name="wifi_connect_timeout">Wifi 連線等待時間</string>
+    <string name="wifi_connect_timeout_desc">如果連線等待的時間太久, 可以調整這個設定. 單位是毫秒(milliseconds).</string>
+    <string name="prefer_last_connected_phone">優先嘗試最後曾連線的手機</string>
+    <string name="developerMode">開發人員模式</string>
+    <string name="developerMode_desc">此選項專為開發人員設計使用.</string>
+    <string name="dongle_mode">Dongle 模式</string>
+    <string name="dongle_mode_desc">Dongle 模式使 AAWireless 使用原始的 Android Auto 連接模式. 啟用時可能可以解決藍芽連線的相關問題. 使用此模式前, 請先將手機與車機以有線連接方式使 Android Auto 正常運作, 此時將手機由車機中移除, 並將 AAWireless 插入車機上同一個 USB 孔中.</string>
+    <string name="factory_reset">恢復出場設定值</string>
+    <string name="factory_reset_confirm">確定要恢復出場設定值嗎?</string>
+    <string name="save">存檔</string>
+    <string name="saving">存檔中...</string>
+    <string name="skip">跳過</string>
+    <string name="finish">完成</string>
+    <string name="device_settings">裝置設定</string>
+    <string name="help_and_support">幫助及支援</string>
+    <string name="ok">OK</string>
+    <string name="android_auto_should_start">Android Auto 應在一分鐘內啟動. 如果沒有, 請點選下圖開啟故障及疑難排除.</string>
+    <string name="add_new_device">增加新的裝置</string>
+    <string name="mtp">MTP模式</string>
+    <string name="direct">Direct模式</string>
+    <string name="mtp_force">MTP模式並強制啟動</string>
+    <string name="mtp_retry">MTP模式並重試</string>
+    <string name="usb_default">預設模式</string>
+
+    <!-- OTA -->
+    <string name="ota_title">更新您的裝置</string>
+    <string name="ota_start_update">開始更新</string>
+    <string name="ota_notification_channel_name">AAWireless 線上更新(OTA)</string>
+    <string name="ota_download_start">開始下載</string>
+    <string name="ota_downloading">下載中: %d%%</string>
+    <string name="ota_download_complete">下載完成</string>
+    <string name="ota_download_failed">下載失敗</string>
+    <string name="ota_update_starting">開始更新</string>
+    <string name="ota_update_pending">等待更新過程開始</string>
+    <string name="ota_updating">更新中: %d%%</string>
+    <string name="ota_wait_for_reboot">等待裝置重開中</string>
+    <string name="ota_update_complete">更新完成</string>
+    <string name="ota_update_failed">更新失敗</string>
+    <string name="ota_connecting_to_device">與裝置連線中</string>
+    <string name="ota_download_pending">下載將會於連線到WIFI時開始</string>
+    <string name="ota_update_available">有可用的更新</string>
+    <string name="ota_no_update_available">沒有可用的更新</string>
+    <string name="ota_getting_version_info">取得版本資訊中...</string>
+    <string name="ota_getting_version_info_failed">無法取得版本資訊, 您的裝置有開機嗎?</string>
+    <string name="ota_current_version">目前版本: %s</string>
+    <string name="ota_latest_version">最新版本: %s</string>
+    <string name="ota_start_download">開始下載</string>
+    <string name="dismiss">稍後再說</string>
+    <string name="notification">通知</string>
+    <string name="changelog">版本更新資訊</string>
+    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
+    <string name="disable_vpn">如果您有使用VPN, 請在開始更新前關閉VPN或將AAWireless APP設為例外.</string>
+
+    <string name="ota_metered_network">您正在使用計量型網路, 確定要現在開始下載更新嗎? 您可以安排時間或立刻更新.</string>
+
+    <string name="wifi_client_desc">WIFI客戶端模式允許使用既有的WIFI網路(例如車輛熱點, 4G分享器等)進行連線. 使用此模式時無法使用 例外啟動偵測 及 自動連線.</string>
+    <string name="wifi_client_ssid">WIFI網路SSID</string>
+    <string name="wifi_client_ssid_desc">請輸入WIFI網路的名稱</string>
+    <string name="wifi_client_pass">WIFI網路密碼</string>
+    <string name="wifi_client_pass_desc">請輸入WIFI網路的密碼</string>
+    <string name="wifi_channel">WiFi 頻道(CH)</string>
+    <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
+    <string name="country_setting_desc">選擇國家以確認當地合法的WIFI頻道. 確保合法使用, 使用者務必選擇正確的國家. 調整此選項後設備將會重開.</string>
+    <string name="country">國家</string>
+    <string name="country_desc">請選擇適合的國家</string>
+    <string name="requires_v2">下列部分功能需使用 2.0.0 或以上的韌體版本.</string>
+
+    <string name="see_faq">常見問題</string>
+    <string name="bug_report_available">有問題報告可以回報</string>
+    <string name="start_debug_mode">開始除錯模式</string>
+    <string name="stop_debug_mode">停止除錯模式並產生問題報告</string>
+    <string name="send_mail">發送 e-mail</string>
+    <string name="bug_report_nag">只有在被技術支援者要求時, 開啟除錯模式產生問題報告. 沒有支援系統案例號碼的問題報告不會被處理.</string>
+    <string name="bug_report">問題報告</string>
+    <string name="bug_report_desc">要產生一個問題報告, 請按下方的"開始除錯模式". 當問題發生後, 按"停止除錯模式並產生問題報告". 問題報告產生後將顯示如何送出問題報告. 只有在被技術支援者要求時才使用這個功能.</string>
+    <string name="downloading_log">下載報告</string>
+    <string name="download_log_failed">下載報告失敗</string>
+    <string name="log_download_notification_channel_name">問題報告</string>
+    <string name="issue_description">請敘述您遭遇到的問題(英文).</string>
+    <string name="send">發送</string>
+    <string name="support_request_for">Support request for %s</string>
+    <string name="support_address">mailto:support@cpeb.it</string>
+    <string name="faq_address">https://cpeb.freshdesk.com</string>
+    <string name="could_not_get_debug_status">無法得知是否進入除錯模式, 您的AAWireless 有開機嗎?</string>
+    <string name="submit">送出</string>
+
+    <string name="could_not_get_settings">無法讀取設定, 您的AAWireless 有開機嗎?</string>
+    <string name="could_not_save_settings">無法寫入設定, 您的AAWireless 有開機嗎?</string>
+
+    <string name="an_error_occurred_please_try_again">發生錯誤, 請再試一次</string>
+    <string name="start_stop">例外啟動偵測</string>
+    <string name="start_stop_draw_over_other_apps">使用例外啟動偵測功能時, 需要"顯示在其他應用程式上層"的權限.\n\n於"顯示在其他應用程式上層"設定頁, 尋找 AAWireless 並允許.</string>
+    <string name="start_stop_desc">如果你車機的USB常時供電, 你可以停用自動連線並選擇車機的免持連線作為 Android Auto 的啟動偵測模式.</string>
+    <string name="enable_start_stop">啟用例外啟動偵測</string>
+    <string name="device_hfp_controlled">Device HFP controlled (experimental)</string>
+    <string name="device_usb_controlled">Device USB controlled (experimental)</string>
+    <string name="select_car_or_headunit">選擇 車輛 或 車機</string>
+    <string name="permission_needed">需要權限許可</string>
+    <string name="permission_required">需要的權限</string>
+
+    <string name="connecting_to_device">連線到裝置</string>
+    <string name="delay_connect_to_device">稍後連線到裝置</string>
+    <string name="connection_lost_reconnecting_to_device">與裝置斷線, 重新連線中</string>
+    <string name="connected_to_device">已連線到裝置</string>
+    <string name="disconnecting_from_device">與裝置斷線中</string>
+    <string name="wifi_not_enabled">WiFi 未開啟, 請開啟 WiFi</string>
+    <string name="draw_overlays_not_enabled">不被允許 顯示在其他應用程式上層 , 請允許</string>
+    <string name="idle">閒置</string>
+    <string name="stop">停止</string>
+    <string name="restart">重新啟動</string>
+    <string name="enable_wifi">開啟 WiFi</string>
+    <string name="enable_draw_overlays">允許 顯示在其他應用程式上層</string>
+
+    <string name="already_a_device">已經擁有 AAWireless 了嗎? 讓我們開始!</string>
+
+    <string name="invalid_email_address">不完整的 e-mail 位置</string>
+    <string name="required_field">這是一個必填的欄位</string>
+    <string name="lets_start">讓我們開始</string>
+    <string name="go_to_settings">開始設定</string>
+    <string name="welcome">歡迎</string>
+    <string name="this_is_aawireless">感謝您使用 AAWireless 設定APP, 世界第一個 Android Auto 無線解決方案.</string>
+    <string name="system_update">系統更新</string>
+    <string name="select_device">選擇裝置</string>
+    <string name="setting_not_available">設定無法使用</string>
+    <string name="setting_not_available_desc">這個設定只能於韌體版本 2.0.0 或以上使用. 韌體2.0.0 即將發行.</string>
+    <string name="start_stop_not_available_desc">例外啟動偵測 無法在WIFI客戶端模式下使用.</string>
+    <string name="menu_not_available">選單無法使用</string>
+    <string name="menu_not_available_desc">這個選單只能於韌體版本 2.0.0 或以上使用. 韌體2.0.0 即將發行.</string>
+    <string name="enabled">啟用</string>
+    <string name="disabled">停用</string>
+    <string name="could_not_change_debug_mode">無法開啟除錯模式</string>
+    <string name="could_not_get_device_information">無法獲得裝置資訊, 您的AAWireless 有開機嗎?</string>
+    <string name="could_not_send_bug_report">無法傳送問題報告.</string>
+    <string name="bluetooth_permission">需要能夠存取藍芽才能繼續, 請允許使用藍芽.</string>
+    <string name="exit">離開</string>
+    <string name="grant">允許</string>
+    <string name="wifi_mode">WiFi 模式</string>
+    <string name="wifi_band">WiFi 頻率</string>
+    <string name="client">客戶端</string>
+    <string name="hotspot">熱點</string>
+    <string name="wifi_24ghz">2.4 Ghz</string>
+    <string name="wifi_5ghz">5 Ghz</string>
+    <string name="order_now">馬上訂購!</string>
+    <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
+
+    <!-- Paired phone management -->
+    <string name="paired_phones">已配對的手機</string>
+    <string name="unpair_phone">解除手機配對</string>
+    <string name="increase_priority">提高優先權</string>
+    <string name="decrease_priority">降低優先權</string>
+    <string name="paired_phones_non_functional_warning">排序時如同時使用 例外啟動偵測 或 Dongle模式, 排序功能不可用. 可嘗試使用免持連線排序.</string>
+
+    <string name="unstable_warning" translatable="false">你正在使用的是開發版的APP, 有可能並不穩定. 有可能會有錯誤或是功能無法正確動作. 如果你需要穩定版, 請刪除你的 Firebase App 測試帳號並由 Play Store 下載.\n\n要刪除您的帳號, 請按下方 "刪除帳號" 的按鈕後, 以您的Google 帳號登入後, 於網頁中點選 \"Delete Account\".</string>
+    <string name="delete_account" translatable="false">刪除帳號</string>
+
+    <!-- Widget TODO: translate -->
+    <string name="widget_override" translatable="false">手機指定連線</string>
+    <string name="widget_override_desc" translatable="false">手機指定連線小工具</string>
+    <string name="widget_override_device_name" translatable="false">Pixel 6</string>
+    <string name="title_activity_widget_override_connection" translatable="false">手機指定連線小工具設定</string>
+    <string name="widget_force_connect" translatable="false">裝置指定連線</string>
+    <string name="widget_force_connect_desc" translatable="false">裝置指定連線小工具</string>
+    <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
+    <string name="title_activity_widget_force_connection" translatable="false">裝置指定連線小工具設定</string>
+
+    <!-- Troubleshooting -->
+    <string name="troubleshooting">問題排除</string>
+    <string name="led_color_title">LED 顏色?</string>
+    <string name="led_color_desc">請您確認裝置上LED燈的顏色以及狀態?</string>
+    <string name="led_blinking_green">綠色且閃爍</string>
+    <string name="no_blinking_green">不, 是綠色且閃爍</string>
+    <string name="led_blinking_blue">藍色且閃爍</string>
+    <string name="no_blinking_blue">不, 是藍色且閃爍</string>
+    <string name="led_solid_blue">藍色, 恆亮</string>
+    <string name="no_solid_blue">不, 是藍色且恆亮</string>
+    <string name="led_solid_green">綠色, 恆亮</string>
+    <string name="led_solid_white">白色, 恆亮</string>
+    <string name="is_wifi_visible_title">Wi-Fi 可被看到嗎?</string>
+    <string name="wireless_projection_auto_title">無線Android Auto</string>
+    <string name="wireless_projection_auto_desc">請依下列方法開啟 無線Android Auto, 接著請按 \"下一步\" .</string>
+    <string name="contact_support">聯絡支援</string>
+    <string name="other_issue">其他問題</string>
+    <string name="change_bandwidth_title">Wi-Fi 2.4 GHz</string>
+    <string name="change_bandwidth_desc">你的手機似乎只支援 2.4GHz 的Wi-Fi. 請按下方的按鈕設定本裝置使用 2.4GHz Wi-Fi.</string>
+    <string name="contact_support_title">聯絡支援</string>
+    <string name="contact_support_desc">請聯絡支援服務得到進一步的協助.</string>
+    <string name="does_not_work_over_usb_title">有線連接</string>
+    <string name="does_not_work_over_usb_desc">當你的手機與車機使用有線連接時, Android Auto 有正常運作嗎?</string>
+    <string name="is_wifi_visible_desc">請按下方開啟 Wi-Fi 設定, 並確認能看到一個 Wi-Fi 名稱是 \"AAWireless-xxxxxx\" 或 \"AndroidAuto-AAWxxxxx\".</string>
+    <string name="is_wifi_visible_desc2">可以看到嗎?</string>
+    <string name="yes">Yes</string>
+    <string name="one_button">下一步</string>
+    <string name="service_reset">開啟 Google Play services 設定</string>
+    <string name="aa_reset">開啟 Android Auto 設定</string>
+    <string name="no">No</string>
+    <string name="usb_c_cable_title">USB-C 連接線</string>
+    <string name="usb_c_cable_desc">有時候無法連線是因為線材的關係, 請用別條線連線然後按 下一步.</string>
+    <string name="does_it_work_title">執行中?</string>
+    <string name="does_it_work_desc">請重新拔插你的裝置. 一分鐘後 Android Auto 應會啟動. 請檢查 Android Auto 是否正常執行中..</string>
+    <string name="does_it_have_a_bluetooth_connection_desc">請手動至藍芽設定處連接至 AAWireless.</string>
+    <string name="does_it_have_a_bluetooth_connection_title"> 藍芽連線 </string>
+    <string name="clear_title">快取及儲存空間</string>
+    <string name="clear_desc">請按下方按鈕並清除 Android Auto 中的\"儲存空間和快取\", 然後按上一頁兩次後, 再按下方的\"下一步\"</string>
+    <string name="set_usb_mode_desc">請按下方按鈕設定USB連線為MTP模式.</string>
+    <string name="enable_passthrough_title">啟用直通模式</string>
+    <string name="enable_passthrough_desc">請按下方按鈕以啟用直通模式.</string>
+    <string name="enter_problem_description">請在下方敘述你發生的問題(英文):</string>
+    <string name="aa_working_title">成功了!</string>
+    <string name="aa_working_desc">很開心你成功了, Have Fun! 如果你需要協助, 請按下方按鈕得到支援.</string>
+    <string name="close_troubleshooting">關閉問題排除</string>
+    <string name="no_device_selected">無法偵測到設備, 回到首頁</string>
+    <string name="reset_device_title">恢復出場預設值</string>
+    <string name="reset_device_desc">請按 下一步 使設備恢復出場預設值.</string>
+</resources>
