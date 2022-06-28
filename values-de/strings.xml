@@ -1,5 +1,5 @@
 <resources>
-    <string name="get_going">Los geht\'s!</string>
+    <string name="get_going">Los geht's!</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
     <string name="connect_phone">Bitte das Infotainment-System des Fahrzeuges starten, dann Smartphone und Fahrzeug mit einem USB-Kabel verbinden.</string>
@@ -64,11 +64,11 @@
     <string name="wifi_connect_timeout">WLAN-Timeout</string>
     <string name="wifi_connect_timeout_desc">Dieser Wert kann geändert werden, wenn die Verbindung zum Gerät zu lange dauert. Die Zeit wird in Millisekunden eingegeben.</string>
     <string name="prefer_last_connected_phone">Bevorzuge zuletzt verbundenes Smartphone</string>
-    <string name="developerMode">Entwickler-Modus</string>
+    <string name="developerMode">Entwickler Modus</string>
     <string name="developerMode_desc">Bitte nur für App-Entwicklungszwecke aktivieren.</string>
     <string name="dongle_mode">Dongle-Modus</string>
-    <string name="dongle_mode_desc">AAWireless verwendet die native Dongle-Logik von Android Auto. Dies kann Bluetooth-Verbindungsprobleme beheben. Zur Ersteinrichtung bitte das Smartphone über ein USB-Kabel mit dem Fahrzeug verbinden. /n/nWährend die Android Auto Verbindung auf dem Infotainment-System des Fahrzeuges aktiv ist, bitte das Smartphone trennen und stattdessen den AAwireless-Adapter über den gleichen USB-Port verbinden.</string>
-    <string name="factory_reset">Zurücksetzen auf Werkseinstellung</string>
+    <string name="dongle_mode_desc">AAWireless verwendet die native Dongle-Logik von Android Auto. Dies kann Bluetooth-Verbindungsprobleme beheben. Zur Ersteinrichtung bitte das Smartphone über ein USB-Kabel mit dem Fahrzeug verbinden. Während die Android Auto Verbindung auf dem Infotainment-System des Fahrzeuges aktiv ist, bitte das Smartphone trennen und stattdessen den AAwireless-Adapter über den gleichen USB-Port verbinden.</string>
+    <string name="factory_reset">Zurücksetzen auf Werks- Einstellung</string>
     <string name="factory_reset_confirm">Bitte bestätigen, dass AAWireless auf die Werkseinstellung zurückgesetzt werden soll.</string>
     <string name="save">Speichern</string>
     <string name="saving">Speichere...</string>
@@ -83,7 +83,7 @@
     <string name="direct">Direkt</string>
     <string name="mtp_force">MTP mit erzwungenem Start</string>
     <string name="mtp_retry">MTP mit Wiederholung</string>
-    <string name="usb_default">Fahrzeug-Standard</string>
+    <string name="usb_default">Standard</string>
 
     <!-- OTA -->
     <string name="ota_title">Aktualisieren des Gerätes</string>
@@ -104,7 +104,7 @@
     <string name="ota_update_available">Aktualisierung vorhanden</string>
     <string name="ota_no_update_available">Keine Aktualisierung vorhanden</string>
     <string name="ota_getting_version_info">Lese Versionsinformation...</string>
-    <string name="ota_getting_version_info_failed">Versionsinformation konnte nicht gelesen werden. Ist das AAWireless eingeschaltet?</string>
+    <string name="ota_getting_version_info_failed">Versionsinformation konnte nicht gelesen werden. Ist das Gerät eingeschaltet?</string>
     <string name="ota_current_version">Aktuelle Version: %s</string>
     <string name="ota_latest_version">Neueste Version: %s</string>
     <string name="ota_start_download">Starte Download</string>
@@ -123,29 +123,29 @@
     <string name="wifi_client_pass_desc">Bitte das Client-Netzwerkpasswort eingeben</string>
     <string name="wifi_channel">WLAN Kanal</string>
     <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
-    <string name="country_setting_desc">Auswahl des Landes, um die dort geltenden WLAN-Bestimmungen zu übernehmen. Der Anwender ist für die korrekte Einstellung selbst verantwortlich! /n/nNach dem Wechsel des Landes wird das Gerät neu gestartet.</string>
+    <string name="country_setting_desc">Auswahl des Landes, um die dort geltenden WLAN-Bestimmungen zu übernehmen. Der Anwender ist für die korrekte Einstellung selbst verantwortlich! Nach dem Wechsel des Landes wird das Gerät neu gestartet.</string>
     <string name="country">Land</string>
     <string name="country_desc">Auswahl des Landes</string>
     <string name="requires_v2">Einige der Optionen benötigen Firmware 2.0.0 oder höher.</string>
 
-    <string name="see_faq">FAQ</string>
+    <string name="see_faq">Fragen & Antworten</string>
     <string name="bug_report_available">Fehlerbericht verfügbar</string>
     <string name="start_debug_mode">Debug-Modus starten</string>
     <string name="stop_debug_mode">Debug-Modus beenden und Fehlerbericht erstellen</string>
     <string name="send_mail">E-Mail senden</string>
     <string name="bug_report_nag">Bitte nur auf Nachfrage des Supportes einen Fehlerbericht senden. Fehlerberichte ohne Support-Ticket werden nicht bearbeitet.</string>
     <string name="bug_report">Fehlerbericht</string>
-    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen, bitte \"Debug-Modus starten\" wählen. Nachdem das Problem aufgetreten ist, \"Debug-Modus beenden\" wählen. Der Fehlerbericht kann im folgenden Dialog gesendet werden. /n/nBitte nur auf Nachfrage des Supportes verwenden.</string>
+    <string name="bug_report_desc">Um einen Fehlerbericht zu erstellen, bitte \"Debug-Modus starten\" wählen. Nachdem das Problem aufgetreten ist, \"Debug-Modus beenden\" wählen. Der Fehlerbericht kann im folgenden Dialog gesendet werden. Bitte nur auf Nachfrage des Supportes verwenden.</string>
     <string name="downloading_log">Log herunterladen</string>
     <string name="download_log_failed">Herunterladen des Logs fehlgeschlagen</string>
     <string name="log_download_notification_channel_name">Fehlerbericht</string>
     <string name="issue_description">Fehlerbeschreibung</string>
     <string name="send">Senden</string>
-    <string name="could_not_get_debug_status">Debug-Status konnte nicht ermittelt werden. Ist der AAWireless-Adapter eingeschaltet?</string>
+    <string name="could_not_get_debug_status">Debug-Status konnte nicht ermittelt werden. Ist das Gerät eingeschaltet?</string>
     <string name="submit">Abschicken</string>
 
-    <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist der AAWireless-Adapter eingeschaltet?</string>
-    <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist der AAWireless-Adapter eingeschaltet?</string>
+    <string name="could_not_get_settings">Einstellungen konnten nicht gelesen werden. Ist das Gerät eingeschaltet?</string>
+    <string name="could_not_save_settings">Einstellungen konnten nicht gespeichert werden. Ist das Gerät eingeschaltet?</string>
 
     <string name="an_error_occurred_please_try_again">Ein Fehler ist aufgetreten. Bitte erneut versuchen.</string>
     <string name="start_stop">Start / Stop</string>
@@ -171,21 +171,21 @@
     <string name="enable_wifi">Aktiviere WLAN</string>
     <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einblenden"</string>
 
-    <string name="already_a_device">Besitzen Sie schon einen AAWireless-Adapter? Dann kann\'s losgehen!</string>
+    <string name="already_a_device">Besitzen Sie schon einen AAWireless-Adapter? Dann kann's losgehen!</string>
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
-    <string name="lets_start">Los geht\'s!</string>
+    <string name="lets_start">Los geht's!</string>
     <string name="go_to_settings">Einstellungen öffnen</string>
     <string name="welcome">Willkommen</string>
     <string name="this_is_aawireless">in der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
-    <string name="system_update">Systemaktualisierung</string>
+    <string name="system_update">System-Update</string>
     <string name="select_device">Geräteauswahl</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
-    <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. /n/nBitte eine Systemaktualisierung durchführen.</string>
+    <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. Bitte eine Systemaktualisierung durchführen.</string>
     <string name="start_stop_not_available_desc">Start / Stop kann nicht zusammen mit dem WLAN Client-Modus verwendet werden.</string>
     <string name="menu_not_available">Menü nicht verfügbar</string>
-    <string name="menu_not_available_desc">Dieses Menü ist nur mit der Firmware 2.0.0 oder höher verfügbar. /n/nBitte eine Systemaktualisierung durchführen.</string>
+    <string name="menu_not_available_desc">Dieses Menü ist nur mit der Firmware 2.0.0 oder höher verfügbar. Bitte eine Systemaktualisierung durchführen.</string>
     <string name="enabled">Aktiviert</string>
     <string name="disabled">Deaktiviert</string>
     <string name="could_not_change_debug_mode">Debug-Modus konnte nicht aktiviert werden</string>
@@ -208,20 +208,20 @@
     <string name="unpair_phone">Entferne Smartphone</string>
     <string name="increase_priority">Priorität erhöhen</string>
     <string name="decrease_priority">Priorität verringern</string>
-    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle-Modus funktioniert die Smartphone-Priorisierung nicht. /n/nUm Start / Stop mit einer der beiden Modi zu nutzen, bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System priorisieren, falls verfügbar.</string>
+    <string name="paired_phones_non_functional_warning">Mit aktiviertem Start / Stop Modus oder Dongle-Modus funktioniert die Smartphone-Priorisierung nicht. Um Start / Stop mit einer der beiden Modi zu nutzen, bitte die Smartphone Handsfree-Verbindungen bei deinem Infotainment-System priorisieren, falls verfügbar.</string>
 
-    <string name="unstable_warning">Dies ist eine potenziell instabile Entwicklerversion der AAWireless App. Es könnten Fehler oder Funktionsstörungen auftreten. Wenn eine stabile Version gewünscht ist, bitte den Firebase Account löschen und die App aus dem Playstore laden.\n\nUm den Account zu löschen, bitte \"Lösche Account\" wählen. Anschließend mit dem Google-Konto einloggen und \"Lösche Account\" wählen.</string>
-    <string name="delete_account">Lösche Account</string>
+    <string name="unstable_warning" translatable="false">Dies ist eine potenziell instabile Entwicklerversion der AAWireless App. Es könnten Fehler oder Funktionsstörungen auftreten. Wenn eine stabile Version gewünscht ist, bitte den Firebase Account löschen und die App aus dem Playstore laden.\n\nUm den Account zu löschen, bitte \"Lösche Account\" wählen. Anschließend mit dem Google-Konto einloggen und \"Lösche Account\" wählen.</string>
+    <string name="delete_account" translatable="false">Lösche Account</string>
 
     <!-- Widget TODO: translate -->
-    <string name="widget_override">Smartphone Override</string>
-    <string name="widget_override_desc">Smartphone Verbindung Override-Widget</string>
-    <string name="widget_override_device_name">Pixel 6</string>
-    <string name="title_activity_widget_override_connection">Smartphone Override-Widget Konfiguration</string>
-    <string name="widget_force_connect">Erzwinge Verbindung</string>
-    <string name="widget_force_connect_desc">Erzwungene Geräteverbindung-Widget</string>
-    <string name="widget_force_connect_device_name">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection">Erzwungene Geräteverbindung-Widget Konfiguration</string>
+    <string name="widget_override" translatable="false">Smartphone Override</string>
+    <string name="widget_override_desc" translatable="false">Smartphone Verbindung Override-Widget</string>
+    <string name="widget_override_device_name" translatable="false">Pixel 6</string>
+    <string name="title_activity_widget_override_connection" translatable="false">Smartphone Override-Widget Konfiguration</string>
+    <string name="widget_force_connect" translatable="false">Erzwinge Verbindung</string>
+    <string name="widget_force_connect_desc" translatable="false">Erzwungene Geräteverbindung-Widget</string>
+    <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
+    <string name="title_activity_widget_force_connection" translatable="false">Erzwungene Geräteverbindung-Widget Konfiguration</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Fehlerbehebung</string>
