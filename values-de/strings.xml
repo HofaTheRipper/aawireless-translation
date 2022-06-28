@@ -175,7 +175,7 @@
     <string name="enable_wifi">Aktiviere WLAN</string>
     <string name="enable_draw_overlays">Aktiviere "Über anderen Apps einblenden"</string>
 
-    <string name="already_a_device">Besitzen Sie schon einen AAWireless-Adapter? Dann kann's losgehen!</string>
+    <string name="already_a_device">Ich besitze schon ein Gerät. Es kann losgehen!</string>
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
