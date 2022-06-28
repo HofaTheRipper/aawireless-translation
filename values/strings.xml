@@ -50,7 +50,7 @@
     <string name="vag_crash_fix">VAG crash fix</string>
     <string name="vag_crash_fix_desc">This option provides a fix for a bug in VAG Technisat head units which makes the head unit crash / reboot while skipping/pausing songs in music apps. Please don\'t enable this function for other cars, it will cause glitches.</string>
     <string name="usb_mode">USB Mode</string>
-    <string name="usb_mode_desc">Change how the device is connected to the car. This should be autodetected by the board on first connection to the car, however you might need to change this setting if you use the device in a different car</string>
+    <string name="usb_mode_desc">Change this setting only if the LED of AAWireless keeps blinking blue.</string>
     <string name="wifisetting">WiFi Settings</string>
     <string name="dpi">Change DPI</string>
     <string name="dpi_desc">Set this to 0 for cars default value</string>
@@ -142,8 +142,8 @@
     <string name="log_download_notification_channel_name">Bug report</string>
     <string name="issue_description">Please fill in a description of the issue.</string>
     <string name="send">Send</string>
-    <string name="support_request_for">Support request for %s</string>
-    <string name="support_address">mailto:support@cpeb.it</string>
+    <string name="support_request_for" translatable="false">Support request for %s</string>
+    <string name="support_address">mailto:support@aawireless.io</string>
     <string name="faq_address">https://cpeb.freshdesk.com</string>
     <string name="could_not_get_debug_status">Could not get debugging status, is your AAWireless device powered on?</string>
     <string name="submit">Submit</string>
@@ -205,7 +205,7 @@
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Order now!</string>
-    <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
+    <string name="order_address">https://aawireless.io</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">Paired phones</string>
@@ -214,18 +214,18 @@
     <string name="decrease_priority">Decrease priority</string>
     <string name="paired_phones_non_functional_warning">With start / stop mode or dongle mode enabled phone prioritization is not functional. For prioritizing phones with start / stop or dongle mode enabled please prioritize phone handsfree connections on your car radio if possible.</string>
 
-    <string name="unstable_warning" translatable="false">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
-    <string name="delete_account" translatable="false">Delete account</string>
+    <string name="unstable_warning">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
+    <string name="delete_account">Delete account</string>
 
     <!-- Widget TODO: translate -->
-    <string name="widget_override" translatable="false">Phone override</string>
-    <string name="widget_override_desc" translatable="false">Phone connection override widget</string>
-    <string name="widget_override_device_name" translatable="false">Pixel 6</string>
-    <string name="title_activity_widget_override_connection" translatable="false">Phone override widget configuration</string>
-    <string name="widget_force_connect" translatable="false">Force connect</string>
-    <string name="widget_force_connect_desc" translatable="false">Device force connection widget</string>
-    <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">Device force connection widget configuration</string>
+    <string name="widget_override">Phone override</string>
+    <string name="widget_override_desc">Phone connection override widget</string>
+    <string name="widget_override_device_name">Pixel 6</string>
+    <string name="title_activity_widget_override_connection">Phone override widget configuration</string>
+    <string name="widget_force_connect">Force connect</string>
+    <string name="widget_force_connect_desc">Device force connection widget</string>
+    <string name="widget_force_connect_device_name">AndroidAuto-AAW123</string>
+    <string name="title_activity_widget_force_connection">Device force connection widget configuration</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Troubleshooting</string>
@@ -253,21 +253,14 @@
     <string name="is_wifi_visible_desc">Please open Wi-Fi settings by clicking the button below and verify if a Wi-Fi network called \"AAWireless-xxxxxx\" or \"AndroidAuto-AAWxxxxx\" is visible.</string>
     <string name="is_wifi_visible_desc2">Is it visible?</string>
     <string name="yes">Yes</string>
-    <string name="one_button">Next</string>
-    <string name="service_reset">Open Google Play services settings</string>
     <string name="aa_reset">Open Android Auto settings</string>
     <string name="no">No</string>
     <string name="usb_c_cable_title">USB-C cable</string>
     <string name="usb_c_cable_desc">Sometimes disconnections can be caused by the cable. Please try another USB-C cable and press next.</string>
     <string name="does_it_work_title">Running?</string>
     <string name="does_it_work_desc">Please re-plug your device. Within one minute Android Auto should start. Please verify if Android Auto is now running correctly.</string>
-    <string name="does_it_have_a_bluetooth_connection_desc">Please manually connect to your AAWireless device via bluetooth settings.</string>
-    <string name="does_it_have_a_bluetooth_connection_title"> Bluetooth connection </string>
     <string name="clear_title">Cache and storage</string>
     <string name="clear_desc">Please press the button below and clear the storage of Android Auto in \"Storage and cache\", press back twice and press \"Next\" below.</string>
-    <string name="set_usb_mode_desc">Please use the button below to set the USB mode to MTP.</string>
-    <string name="enable_passthrough_title">Enable passthrough</string>
-    <string name="enable_passthrough_desc">Please enable Passthrough mode by tapping on the button below.</string>
     <string name="enter_problem_description">Please enter a description of your issue below:</string>
     <string name="aa_working_title">It works!</string>
     <string name="aa_working_desc">We are glad you got it working, have fun with your device! If you need further assistance, please use the button below to contact support.</string>

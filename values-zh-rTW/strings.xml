@@ -1,5 +1,4 @@
 <resources>
-    <string name="aawireless" translatable="false">AAWireless</string>
     <string name="get_going">讓我們開始吧</string>
     <string name="step">步驟 %1$d / %2$d</string>
     <string name="start">開始</string>
@@ -142,9 +141,6 @@
     <string name="log_download_notification_channel_name">問題報告</string>
     <string name="issue_description">請敘述您遭遇到的問題(英文).</string>
     <string name="send">發送</string>
-    <string name="support_request_for">Support request for %s</string>
-    <string name="support_address">mailto:support@cpeb.it</string>
-    <string name="faq_address">https://cpeb.freshdesk.com</string>
     <string name="could_not_get_debug_status">無法得知是否進入除錯模式, 您的AAWireless 有開機嗎?</string>
     <string name="submit">送出</string>
 
@@ -214,18 +210,18 @@
     <string name="decrease_priority">降低優先權</string>
     <string name="paired_phones_non_functional_warning">排序時如同時使用 例外啟動偵測 或 Dongle模式, 排序功能不可用. 可嘗試使用免持連線排序.</string>
 
-    <string name="unstable_warning" translatable="false">你正在使用的是開發版的APP, 有可能並不穩定. 有可能會有錯誤或是功能無法正確動作. 如果你需要穩定版, 請刪除你的 Firebase App 測試帳號並由 Play Store 下載.\n\n要刪除您的帳號, 請按下方 "刪除帳號" 的按鈕後, 以您的Google 帳號登入後, 於網頁中點選 \"Delete Account\".</string>
-    <string name="delete_account" translatable="false">刪除帳號</string>
+    <string name="unstable_warning">你正在使用的是開發版的APP, 有可能並不穩定. 有可能會有錯誤或是功能無法正確動作. 如果你需要穩定版, 請刪除你的 Firebase App 測試帳號並由 Play Store 下載.\n\n要刪除您的帳號, 請按下方 "刪除帳號" 的按鈕後, 以您的Google 帳號登入後, 於網頁中點選 \"Delete Account\".</string>
+    <string name="delete_account">刪除帳號</string>
 
     <!-- Widget TODO: translate -->
-    <string name="widget_override" translatable="false">手機指定連線</string>
-    <string name="widget_override_desc" translatable="false">手機指定連線小工具</string>
-    <string name="widget_override_device_name" translatable="false">Pixel 6</string>
-    <string name="title_activity_widget_override_connection" translatable="false">手機指定連線小工具設定</string>
-    <string name="widget_force_connect" translatable="false">裝置指定連線</string>
-    <string name="widget_force_connect_desc" translatable="false">裝置指定連線小工具</string>
-    <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">裝置指定連線小工具設定</string>
+    <string name="widget_override">手機指定連線</string>
+    <string name="widget_override_desc">手機指定連線小工具</string>
+    <string name="widget_override_device_name">Pixel 6</string>
+    <string name="title_activity_widget_override_connection">手機指定連線小工具設定</string>
+    <string name="widget_force_connect">裝置指定連線</string>
+    <string name="widget_force_connect_desc">裝置指定連線小工具</string>
+    <string name="widget_force_connect_device_name">AndroidAuto-AAW123</string>
+    <string name="title_activity_widget_force_connection">裝置指定連線小工具設定</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">問題排除</string>
@@ -253,21 +249,14 @@
     <string name="is_wifi_visible_desc">請按下方開啟 Wi-Fi 設定, 並確認能看到一個 Wi-Fi 名稱是 \"AAWireless-xxxxxx\" 或 \"AndroidAuto-AAWxxxxx\".</string>
     <string name="is_wifi_visible_desc2">可以看到嗎?</string>
     <string name="yes">Yes</string>
-    <string name="one_button">下一步</string>
-    <string name="service_reset">開啟 Google Play services 設定</string>
     <string name="aa_reset">開啟 Android Auto 設定</string>
     <string name="no">No</string>
     <string name="usb_c_cable_title">USB-C 連接線</string>
     <string name="usb_c_cable_desc">有時候無法連線是因為線材的關係, 請用別條線連線然後按 下一步.</string>
     <string name="does_it_work_title">執行中?</string>
     <string name="does_it_work_desc">請重新拔插你的裝置. 一分鐘後 Android Auto 應會啟動. 請檢查 Android Auto 是否正常執行中..</string>
-    <string name="does_it_have_a_bluetooth_connection_desc">請手動至藍芽設定處連接至 AAWireless.</string>
-    <string name="does_it_have_a_bluetooth_connection_title"> 藍芽連線 </string>
     <string name="clear_title">快取及儲存空間</string>
     <string name="clear_desc">請按下方按鈕並清除 Android Auto 中的\"儲存空間和快取\", 然後按上一頁兩次後, 再按下方的\"下一步\"</string>
-    <string name="set_usb_mode_desc">請按下方按鈕設定USB連線為MTP模式.</string>
-    <string name="enable_passthrough_title">啟用直通模式</string>
-    <string name="enable_passthrough_desc">請按下方按鈕以啟用直通模式.</string>
     <string name="enter_problem_description">請在下方敘述你發生的問題(英文):</string>
     <string name="aa_working_title">成功了!</string>
     <string name="aa_working_desc">很開心你成功了, Have Fun! 如果你需要協助, 請按下方按鈕得到支援.</string>

@@ -141,7 +141,6 @@
     <string name="log_download_notification_channel_name">AAWireless - 로그 다운로드</string>
     <string name="issue_description">오류에 대해 적어주세요. 최대한 상세하게 차종, 발생 환경, 증상을 적어주실수록 개발에 도움이 됩니다.</string>
     <string name="send">전송</string>
-    <string name="support_request_for">Support request for %s</string>
     <string name="support_address">https://talk.naver.com/ct/w4nte0?frm=psf</string>
     <string name="faq_address">https://carple.kr/faq/</string>
     <string name="could_not_get_debug_status">디버그 상태를 불러올수 없습니다, AAWireless 기기의 전원이 켜져있나요?</string>
@@ -239,21 +238,14 @@
     <string name="is_wifi_visible_desc">하단의 버튼을 눌러 Wi-Fi 설정으로 진입 후, \"AAWireless-xxxxxx\" 혹은 \"AndroidAuto-AAWxxxxx\" 이름의 Wi-Fi 가 검색되는지 확인 바랍니다.</string>
     <string name="is_wifi_visible_desc2">Wi-Fi 가 보이시나요?</string>
     <string name="yes">예</string>
-    <string name="one_button">다음</string>
-    <string name="service_reset">Google Play Service 설정 열기</string>
     <string name="aa_reset">Android Auto 설정 열기</string>
     <string name="no">아니요</string>
     <string name="usb_c_cable_title">케이블</string>
     <string name="usb_c_cable_desc">케이블로 인해 연결이 끊길 수 있습니다. 다른 USB-C 케이블을 사용해보신 후 다음으로 진행해주세요.</string>
     <string name="does_it_work_title">Android Auto가 작동 중입니까?</string>
     <string name="does_it_work_desc">AAWireless 기기를 다시 연결해주세요. 일분 내에 Android Auto 가 시작됩니다. Android Auto 가 정상적으로 작동하는지 확인해주세요.</string>
-    <string name="does_it_have_a_bluetooth_connection_desc">블루투스 설정을 통해 AAWireless 기기에 수동으로 연결하십시오.</string>
-    <string name="does_it_have_a_bluetooth_connection_title"> 블루투스 연결 </string>
     <string name="clear_title">데이터 및 캐시</string>
     <string name="clear_desc">아래 버튼을 누르고 \"저장소 및 캐시\"에서 Android Auto의 저장소를 지우고 뒤로 두 번 누르고 아래의 \"다음\"을 누르세요.</string>
-    <string name="set_usb_mode_desc">아래 버튼을 눌러 USB 모드를 MTP로 설정하십시오.</string>
-    <string name="enable_passthrough_title">직접전달 활성화</string>
-    <string name="enable_passthrough_desc">아래 버튼을 눌러, 직접 전달 모드를 활성화해주세요.</string>
     <string name="enter_problem_description">문제에 대한 설명을 입력하십시오:</string>
     <string name="aa_working_title">작동합니다!</string>
     <string name="aa_working_desc">무선의 편리함을 즐겨보실 수 있게 되어 기쁩니다! 추가적인 지원이 필요하다면 하단의 버튼을 통해 고객센터로 연락하실 수 있습니다</string>

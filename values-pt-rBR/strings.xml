@@ -1,5 +1,4 @@
 <resources>
-    <string name="aawireless" translatable="false">AAWireless</string>
     <string name="get_going">Vá em Frente</string>
     <string name="step">Passo %1$d / %2$d</string>
     <string name="start">Começar</string>
@@ -142,9 +141,6 @@
     <string name="log_download_notification_channel_name">Relatório de bug</string>
     <string name="issue_description">Por favor, preencha uma descrição do problema.</string>
     <string name="send">Enviar</string>
-    <string name="support_request_for">Solicitação de suporte para %s</string>
-    <string name="support_address">mailto:support@cpeb.it</string>
-    <string name="faq_address">https://cpeb.freshdesk.com</string>
     <string name="could_not_get_debug_status">Não foi possível obter o status de depuração, seu dispositivo AAWireless está ligado?</string>
     <string name="submit">Enviar</string>
 
@@ -214,18 +210,18 @@
     <string name="decrease_priority">Diminuir prioridade</string>
     <string name="paired_phones_non_functional_warning">Com o modo start / stop ou o modo dongle ativado, a priorização de telefone não funciona. Para priorizar telefones com start / stop ou modo dongle ativado, priorize as conexões de viva-voz do telefone no rádio do carro, se possível.</string>
 
-    <string name="unstable_warning" translatable="false">Esta é uma versão de desenvolvimento (potencialmente) instável do aplicativo AAWireless. Pode haver bugs ou recursos que ainda não funcionam corretamente. Se você deseja uma versão estável do aplicativo, exclua sua conta de testador do Firebase App Distribution e baixe o aplicativo AAWireless da Play Store.\n\nPara excluir sua conta, clique no botão \"Delete account\" abaixo, faça login com sua Conta do Google e pressione o botão \"Delete Account\" na página da web.</string>
-    <string name="delete_account" translatable="false">Deletar conta</string>
+    <string name="unstable_warning">Esta é uma versão de desenvolvimento (potencialmente) instável do aplicativo AAWireless. Pode haver bugs ou recursos que ainda não funcionam corretamente. Se você deseja uma versão estável do aplicativo, exclua sua conta de testador do Firebase App Distribution e baixe o aplicativo AAWireless da Play Store.\n\nPara excluir sua conta, clique no botão \"Delete account\" abaixo, faça login com sua Conta do Google e pressione o botão \"Delete Account\" na página da web.</string>
+    <string name="delete_account">Deletar conta</string>
 
     <!-- Widget TODO: translate -->
-    <string name="widget_override" translatable="false">Modificação de telefone</string>
-    <string name="widget_override_desc" translatable="false">Widget de sobrepor de conexão telefônica</string>
-    <string name="widget_override_device_name" translatable="false">Pixel 6</string>
-    <string name="title_activity_widget_override_connection" translatable="false">Configuração do widget de sobrepor de telefone</string>
-    <string name="widget_force_connect" translatable="false">Forçar conexão</string>
-    <string name="widget_force_connect_desc" translatable="false">Widget de forçar conexão do dispositivo</string>
-    <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">Configuração do widget de forçar conexão do dispositivo</string>
+    <string name="widget_override">Modificação de telefone</string>
+    <string name="widget_override_desc">Widget de sobrepor de conexão telefônica</string>
+    <string name="widget_override_device_name">Pixel 6</string>
+    <string name="title_activity_widget_override_connection">Configuração do widget de sobrepor de telefone</string>
+    <string name="widget_force_connect">Forçar conexão</string>
+    <string name="widget_force_connect_desc">Widget de forçar conexão do dispositivo</string>
+    <string name="widget_force_connect_device_name">AndroidAuto-AAW123</string>
+    <string name="title_activity_widget_force_connection">Configuração do widget de forçar conexão do dispositivo</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Solução de Problemas</string>
@@ -253,21 +249,14 @@
     <string name="is_wifi_visible_desc">Abra as configurações de Wi-Fi clicando no botão abaixo e verifique se uma rede Wi-Fi chamada \"AAWireless-xxxxxx\" ou \"AndroidAuto-AAWxxxxx\" é visível.</string>
     <string name="is_wifi_visible_desc2">É visível?</string>
     <string name="yes">Sim</string>
-    <string name="one_button">Próximo</string>
-    <string name="service_reset">Abra as configurações dos serviços do Google Play</string>
     <string name="aa_reset">Abra as configurações do Android Auto</string>
     <string name="no">Não</string>
     <string name="usb_c_cable_title">Cabo USB-C</string>
     <string name="usb_c_cable_desc">Às vezes, as desconexões podem ser causadas pelo cabo. Tente outro cabo USB-C e pressione próximo.</string>
     <string name="does_it_work_title">Funcionando?</string>
     <string name="does_it_work_desc">Por favor, volte a ligar o seu dispositivo. Dentro de um minuto, o Android Auto deve iniciar. Verifique se o Android Auto está funcionando corretamente.</string>
-    <string name="does_it_have_a_bluetooth_connection_desc">Por favor, conecte-se manualmente ao seu dispositivo AAAWireless através das configurações de bluetooth.</string>
-    <string name="does_it_have_a_bluetooth_connection_title"> Conexão Bluetooth </string>
     <string name="clear_title">Cache e armazenamento</string>
     <string name="clear_desc">Pressione o botão abaixo e limpe o armazenamento do Android Auto em \"Storage and cache\", pressione novamente duas vezes e pressione \"Next\" abaixo.</string>
-    <string name="set_usb_mode_desc">Por favor, use o botão abaixo para definir o modo USB para MTP.</string>
-    <string name="enable_passthrough_title">Ativar Modo passagem</string>
-    <string name="enable_passthrough_desc">Por favor, ative o Modo passagem pressionando no botão abaixo.</string>
     <string name="enter_problem_description">Insira uma descrição do seu problema abaixo:</string>
     <string name="aa_working_title">Funciona!</string>
     <string name="aa_working_desc">Estamos felizes que você tenha funcionado, divirta-se com o seu dispositivo! Se precisar de mais ajuda, use o botão abaixo para entrar em contato com o suporte.</string>
