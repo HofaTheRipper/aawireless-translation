@@ -129,7 +129,7 @@
     <string name="country_desc">Auswahl des Landes</string>
     <string name="requires_v2">Einige der Optionen benötigen Firmware 2.0.0 oder höher.</string>
 
-    <string name="see_faq">Fragen & \nAntworten</string>
+    <string name="see_faq">Fragen und \nAntworten</string>
     <string name="bug_report_available">Fehlerbericht verfügbar</string>
     <string name="start_debug_mode">Debug-Modus starten</string>
     <string name="stop_debug_mode">Debug-Modus beenden und Fehlerbericht erstellen</string>
