@@ -111,7 +111,6 @@
     <string name="dismiss">稍後再說</string>
     <string name="notification">通知</string>
     <string name="changelog">版本更新資訊</string>
-    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">如果您有使用VPN, 請在開始更新前關閉VPN或將AAWireless APP設為例外.</string>
 
     <string name="ota_metered_network">您正在使用計量型網路, 確定要現在開始下載更新嗎? 您可以安排時間或立刻更新.</string>
@@ -201,7 +200,6 @@
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">馬上訂購!</string>
-    <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">已配對的手機</string>

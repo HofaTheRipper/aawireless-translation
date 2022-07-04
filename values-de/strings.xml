@@ -1,6 +1,5 @@
 <resources>
-    <string name="aawireless" translatable="false">AAWireless</string>
-    <string name="get_going">Los geht's!</string>
+    <string name="get_going">Los geht\'s!</string>
     <string name="step">Schritt %1$d / %2$d</string>
     <string name="start">Start</string>
     <string name="connect_phone">Bitte das Infotainment-System des Fahrzeuges starten, dann Smartphone und Fahrzeug mit einem USB-Kabel verbinden.</string>
@@ -112,7 +111,6 @@
     <string name="dismiss">Abbrechen</string>
     <string name="notification">Benachrichtigung</string>
     <string name="changelog">Liste der Änderungen</string>
-    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">Vor Beginn einer Aktualisierung bitte eine eventuelle VPN-Verbindung deaktivieren oder die AAWireless-App zu den Ausnahmen hinzufügen.</string>
 
     <string name="ota_metered_network">Aktuell wird eine Mobilfunk-Verbindung verwendet. Soll der Download trotzdem gestartet werden? Die Aktualisierung kann danach sofort oder erst später durchgeführt werden.</string>
@@ -142,9 +140,6 @@
     <string name="log_download_notification_channel_name">Fehlerbericht</string>
     <string name="issue_description">Fehlerbeschreibung</string>
     <string name="send">Senden</string>
-    <string name="support_request_for" translatable="false">Support request for %s</string>
-    <string name="support_address">mailto:support@aawireless.io</string>
-    <string name="faq_address">https://cpeb.freshdesk.com</string>
     <string name="could_not_get_debug_status">Debug-Status konnte nicht ermittelt werden. Ist das Gerät eingeschaltet?</string>
     <string name="submit">Abschicken</string>
 
@@ -179,7 +174,7 @@
 
     <string name="invalid_email_address">Ungültige E-Mail Adresse</string>
     <string name="required_field">Dieses Feld wird benötigt</string>
-    <string name="lets_start">Los geht's!</string>
+    <string name="lets_start">Los geht\'s!</string>
     <string name="go_to_settings">Einstellungen öffnen</string>
     <string name="welcome">Willkommen</string>
     <string name="this_is_aawireless">in der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
@@ -205,7 +200,6 @@
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Jetzt bestellen!</string>
-    <string name="order_address">https://aawireless.io</string>
 
     <!-- Gekoppelte Smartphones verwalten -->
     <string name="paired_phones">Gekoppelte Smartphones</string>

@@ -1,5 +1,4 @@
 <resources>
-    <string name="aawireless">AAWireless</string>
     <string name="get_going">Prosegui</string>
     <string name="step">Passo %1$d / %2$d</string>
     <string name="start">Inizia</string>
@@ -112,7 +111,6 @@
     <string name="dismiss">Rifiuta</string>
     <string name="notification">Notifica</string>
     <string name="changelog">Registro modifiche</string>
-    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">Se hai attivato una VPN, disabilitala o inserisci l\'app AAWireless in whitelist prima di avviare l\'aggiornamento</string>
 
     <string name="ota_metered_network">Sei connesso a una rete dati, sei sicuro di voler scaricare questo aggiornamento ora? Puoi programmarlo o scaricarlo subito</string>
@@ -202,7 +200,6 @@
     <string name="wifi_24ghz">2,4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Ordina ora!</string>
-    <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">Telefoni accoppiati</string>

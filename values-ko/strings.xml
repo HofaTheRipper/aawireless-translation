@@ -111,7 +111,6 @@
     <string name="dismiss">닫기</string>
     <string name="notification">알림</string>
     <string name="changelog">업데이트 내역</string>
-    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">VPN을 활성화한 경우 업데이트를 시작하기 전에 VPN을 비활성화하거나 VPN에서 AAWireless 앱을 허용 목록에 추가하십시오.</string>
 
     <string name="ota_metered_network">제한된 네트워크에 연결되어 있습니다. 다운로드는 다음에도 가능하며, 지금 다운로드도 가능합니다. 다운로드 하시겠습니까?</string>
@@ -141,8 +140,6 @@
     <string name="log_download_notification_channel_name">AAWireless - 로그 다운로드</string>
     <string name="issue_description">오류에 대해 적어주세요. 최대한 상세하게 차종, 발생 환경, 증상을 적어주실수록 개발에 도움이 됩니다.</string>
     <string name="send">전송</string>
-    <string name="support_address">https://talk.naver.com/ct/w4nte0?frm=psf</string>
-    <string name="faq_address">https://carple.kr/faq/</string>
     <string name="could_not_get_debug_status">디버그 상태를 불러올수 없습니다, AAWireless 기기의 전원이 켜져있나요?</string>
     <string name="submit">제출하기</string>
 
@@ -203,7 +200,6 @@
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">지금 주문하기!</string>
-    <string name="order_address">https://carple.kr/</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">휴대폰 관리</string>
