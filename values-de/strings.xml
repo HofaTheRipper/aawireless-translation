@@ -75,7 +75,7 @@
     <string name="skip">Überspringen</string>
     <string name="finish">Fertigstellen</string>
     <string name="device_settings">Geräteeinstellungen</string>
-    <string name="help_and_support">Hilfe und Support</string>
+    <string name="help_and_support">Hilfe</string>
     <string name="ok">OK</string>
     <string name="android_auto_should_start">Android Auto sollte innerhalb einer Minute starten. Falls nicht, bitte die Fehlerbehebung durchführen.</string>
     <string name="add_new_device">Neues Gerät hinzufügen</string>
@@ -179,7 +179,7 @@
     <string name="welcome">Willkommen</string>
     <string name="this_is_aawireless">in der Begleit-App von AAWireless, dem allerersten Android Auto Wireless-Adapter.</string>
     <string name="system_update">Aktualisierung</string>
-    <string name="select_device">Geräte- \nauswahl</string>
+    <string name="select_device">Geräte</string>
     <string name="setting_not_available">Option nicht verfügbar</string>
     <string name="setting_not_available_desc">Diese Option ist nur mit der Firmware 2.0.0 oder höher verfügbar. \n\nBitte eine Systemaktualisierung durchführen.</string>
     <string name="start_stop_not_available_desc">Start / Stop kann nicht zusammen mit dem WLAN Client-Modus verwendet werden.</string>
@@ -202,7 +202,7 @@
     <string name="order_now">Jetzt bestellen!</string>
 
     <!-- Gekoppelte Smartphones verwalten -->
-    <string name="paired_phones">Gekoppelte Smartphones</string>
+    <string name="paired_phones">Smartphones</string>
     <string name="unpair_phone">Entferne Smartphone</string>
     <string name="increase_priority">Priorität erhöhen</string>
     <string name="decrease_priority">Priorität verringern</string>
@@ -223,7 +223,7 @@
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Fehlerbehebung</string>
-    <string name="led_color_title">LED Farbe?</string>
+    <string name="led_color_title">LED Farbe</string>
     <string name="led_color_desc">Welche Farbe hat die Geräte-LED?</string>
     <string name="led_blinking_green">Grün blinkend</string>
     <string name="no_blinking_green">Nein, die LED blinkt grün</string>
