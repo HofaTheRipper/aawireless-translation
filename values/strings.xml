@@ -1,5 +1,5 @@
-<resources>
-    <string name="aawireless" translatable="false">AAWireless</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">AAWireless</string>
     <string name="get_going">Get Going</string>
     <string name="step">Step %1$d / %2$d</string>
     <string name="start">Start</string>
@@ -112,7 +112,6 @@
     <string name="dismiss">Dismiss</string>
     <string name="notification">Notification</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">If you have any VPN enabled, please disable the VPN or whitelist the AAWireless app from the VPN before starting the update.</string>
 
     <string name="ota_metered_network">You are connected to a metered network, are you sure you want to download this update now? You can schedule or download it right now.</string>
@@ -143,8 +142,6 @@
     <string name="issue_description">Please fill in a description of the issue.</string>
     <string name="send">Send</string>
     <string name="support_request_for" translatable="false">Support request for %s</string>
-    <string name="support_address">mailto:support@aawireless.io</string>
-    <string name="faq_address">https://cpeb.freshdesk.com</string>
     <string name="could_not_get_debug_status">Could not get debugging status, is your AAWireless device powered on?</string>
     <string name="submit">Submit</string>
 
@@ -205,7 +202,6 @@
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Order now!</string>
-    <string name="order_address">https://aawireless.io</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">Paired phones</string>
@@ -214,8 +210,8 @@
     <string name="decrease_priority">Decrease priority</string>
     <string name="paired_phones_non_functional_warning">With start / stop mode or dongle mode enabled phone prioritization is not functional. For prioritizing phones with start / stop or dongle mode enabled please prioritize phone handsfree connections on your car radio if possible.</string>
 
-    <string name="unstable_warning">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
-    <string name="delete_account">Delete account</string>
+    <string name="unstable_warning" tools:ignore="MissingTranslation">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
+    <string name="delete_account" tools:ignore="MissingTranslation">Delete account</string>
 
     <!-- Widget TODO: translate -->
     <string name="widget_override">Phone override</string>

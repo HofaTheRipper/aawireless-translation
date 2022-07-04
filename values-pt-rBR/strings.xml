@@ -111,7 +111,6 @@
     <string name="dismiss">Dispensar</string>
     <string name="notification">Notificação</string>
     <string name="changelog">Registro de alterações</string>
-    <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">Se você tiver alguma VPN habilitada, desative a VPN ou coloque na lista de permissões o aplicativo AAWireless da VPN antes de iniciar a atualização.</string>
 
     <string name="ota_metered_network">Você está conectado a uma rede limitada. Tem certeza de que deseja fazer o download desta atualização agora? Você pode agendar ou fazer o download agora mesmo.</string>
@@ -201,7 +200,6 @@
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
     <string name="order_now">Peça agora!</string>
-    <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
 
     <!-- Paired phone management -->
     <string name="paired_phones">Telefones pareados</string>
