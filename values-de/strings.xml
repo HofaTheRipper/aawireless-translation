@@ -223,7 +223,7 @@
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Fehlerbehebung</string>
-    <string name="led_color_title">LED Farbe</string>
+    <string name="led_color_title">LED Diagnose</string>
     <string name="led_color_desc">Welche Farbe hat die Geräte-LED?</string>
     <string name="led_blinking_green">Grün blinkend</string>
     <string name="no_blinking_green">Nein, die LED blinkt grün</string>
