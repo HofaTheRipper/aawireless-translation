@@ -51,7 +51,7 @@
     <string name="usb_mode">USB-Modus</string>
     <string name="usb_mode_desc">Diese Einstellung bitte nur ändern, falls die LED des AAWireless-Adapters kontinuierlich blau blinkt.</string>
     <string name="wifisetting">WLAN- \nOptionen</string>
-    <string name="dpi">Ändere DPI</string>
+    <string name="dpi">DPI</string>
     <string name="dpi_desc">Durch die DPI-Einstellung kann Android Auto in manchen Infotainment-Systemen im Split-Screen Modus angezeigt werden. Die Schriftgröße kann dadurch möglicherweise ungewohnt aussehen. Ein Wert von \"0\" verwendet den Fahrzeug-Standard.</string>
     <string name="remove_tap">Tap-Limit aus</string>
     <string name="remove_tap_desc">Das Limit von maximal 6 aufeinander folgende Bildschirm-Interaktionen wird deaktiviert. Achtung! Dies kann zu ungenauen oder verzögerten GPS Daten führen.</string>
